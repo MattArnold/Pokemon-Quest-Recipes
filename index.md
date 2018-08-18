@@ -358,3 +358,157 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+# Red Stew
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Tiny Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Spearow" title="Spearow">Spearow</a> - 14.3% Chance
+      <br />
+      <a href="#Vulpix" title="Vulpix">Vulpix</a> - 14.3% Chance
+      <br />
+      <a href="#Mankey" title="Mankey">Mankey</a> - 14.3% Chance
+      <br />
+      <a href="#Growlithe" title="Growlithe">Growlithe</a> - 14.3% Chance
+      <br />
+      <a href="#Krabby" title="Krabby">Krabby</a> - 14.3% Chance
+      <br />
+      <a href="#Voltorb" title="Voltorb">Voltorb</a> - 14.3% Chance
+      <br />
+      <a href="#Goldeen" title="Goldeen">Goldeen</a> - 14.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Big Root</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Paras" title="Paras">Paras</a> - 16.4% Chance
+      <br />
+      <a href="#Diglett" title="Diglett">Diglett</a> - 16.4% Chance
+      <br />
+      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a> - 16.4% Chance
+      <br />
+      <a href="#Doduo" title="Doduo">Doduo</a> - 16.4% Chance
+      <br />
+      <a href="#Lickitung" title="Lickitung">Lickitung</a> - 16.4% Chance
+      <br />
+      <a href="#Porygon" title="Porygon">Porygon</a> - 16.4% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(2) Big Root</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(3) Big Root</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Charmander" title="Charmander">Charmander</a> - 4.3% Chance
+      <br />
+      <a href="#Paras" title="Paras">Paras</a> - 13% Chance
+      <br />
+      <a href="#Diglett" title="Diglett">Diglett</a> - 13% Chance
+      <br />
+      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a> - 13% Chance
+      <br />
+      <a href="#Farfetch%27d">Farfetch'd</a> - 4.3% Chance
+      <br />
+      <a href="#Doduo" title="Doduo">Doduo</a> - 13% Chance
+      <br />
+      <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a> - 3.3% Chance
+      <br />
+      <a href="#Lickitung" title="Lickitung">Lickitung</a> - 13% Chance
+      <br />
+      <a href="#Eevee" title="Eevee">Eevee</a> - 4.3% Chance
+      <br />
+      <a href="#Porygon" title="Porygon">Porygon</a> - 13% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 3.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Big Root</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Big Root</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Charmander" title="Charmander">Charmander</a> - 19.8% Chance
+      <br />
+      <a href="#Farfetch%27d">Farfetch'd</a> - 19.8% Chance
+      <br />
+      <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a> - 15% Chance
+      <br />
+      <a href="#Jynx" title="Jynx">Jynx</a> - 3.6% Chance
+      <br />
+      <a href="#Magmar" title="Magmar">Magmar</a> - 3.6% Chance
+      <br />
+      <a href="#Pinsir" title="Pinsir">Pinsir</a> - 3.6% Chance
+      <br />
+      <a href="#Eevee" title="Eevee">Eevee</a> - 19.8% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 15% Chance
+      <br /> </td>
+  </tr>
+</table>
