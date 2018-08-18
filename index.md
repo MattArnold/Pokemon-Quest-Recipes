@@ -652,3 +652,154 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+# Yellow Curry
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Apricorn</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Weedle" title="Weedle">Weedle</a> - 12.5% Chance
+      <br />
+      <a href="#Pidgey" title="Pidgey">Pidgey</a> - 12.5% Chance
+      <br />
+      <a href="#Sandshrew" title="Sandshrew">Sandshrew</a> - 12.5% Chance
+      <br />
+      <a href="#Meowth" title="Meowth">Meowth</a> - 12.5% Chance
+      <br />
+      <a href="#Psyduck" title="Psyduck">Psyduck</a> - 12.5% Chance
+      <br />
+      <a href="#Abra" title="Abra">Abra</a> - 12.5% Chance
+      <br />
+      <a href="#Bellsprout" title="Bellsprout">Bellsprout</a> - 12.5% Chance
+      <br />
+      <a href="#Staryu" title="Staryu">Staryu</a> - 12.5% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Apricorn</li>
+        <li>(1) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 1.5% Chance
+      <br />
+      <a href="#Pikachu" title="Pikachu">Pikachu</a> - 1.5% Chance
+      <br />
+      <a href="#Ponyta" title="Ponyta">Ponyta</a> - 91.9% Chance
+      <br />
+      <a href="#Drowzee" title="Drowzee">Drowzee</a> - 1.5% Chance
+      <br />
+      <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a> - 1.2% Chance
+      <br />
+      <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a> - 1.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Apricorn</li>
+        <li>(2) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(3) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 12% Chance
+      <br />
+      <a href="#Pikachu" title="Pikachu">Pikachu</a> - 12% Chance
+      <br />
+      <a href="#Ponyta" title="Ponyta">Ponyta</a> - 36.2% Chance
+      <br />
+      <a href="#Drowzee" title="Drowzee">Drowzee</a> - 12% Chance
+      <br />
+      <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a> - 9.1% Chance
+      <br />
+      <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a> - 9.1% Chance
+      <br />
+      <a href="#Scyther" title="Scyther">Scyther</a> - 3.3% Chance
+      <br />
+      <a href="#Electabuzz" title="Electabuzz">Electabuzz</a> - 3.3% Chance
+      <br />
+      <a href="#Snorlax" title="Snorlax">Snorlax</a> - 3.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Honey</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 18.8% Chance
+      <br />
+      <a href="#Pikachu" title="Pikachu">Pikachu</a> - 18.8% Chance
+      <br />
+      <a href="#Drowzee" title="Drowzee">Drowzee</a> - 18.8% Chance
+      <br />
+      <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a> - 14.2% Chance
+      <br />
+      <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a> - 14.2% Chance
+      <br />
+      <a href="#Scyther" title="Scyther">Scyther</a> - 5.1% Chance
+      <br />
+      <a href="#Electabuzz" title="Electabuzz">Electabuzz</a> - 5.1% Chance
+      <br />
+      <a href="#Snorlax" title="Snorlax">Snorlax</a> - 5.1% Chance
+      <br /> </td>
+  </tr>
+</table>
