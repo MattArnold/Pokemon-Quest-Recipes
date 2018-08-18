@@ -512,3 +512,143 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+# Blue Soda
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Bluk Berry</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Caterpie" title="Caterpie">Caterpie</a> - 20% Chance
+      <br />
+      <a href="#Rattata" title="Rattata">Rattata</a> - 20% Chance
+      <br />
+      <a href="#NidoranM" title="NidoranM" class="mw-redirect"> Nidoran♂</a> - 20% Chance
+      <br />
+      <a href="#Poliwag" title="Poliwag">Poliwag</a> - 20% Chance
+      <br />
+      <a href="#Tentacool" title="Tentacool">Tentacool</a> - 20% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Bluk Berry</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Ekans" title="Ekans">Ekans</a> - 19.7% Chance
+      <br />
+      <a href="#Machop" title="Machop">Machop</a> - 19.7% Chance
+      <br />
+      <a href="#Grimer" title="Grimer">Grimer</a> - 19.7% Chance
+      <br />
+      <a href="#Koffing" title="Koffing">Koffing</a> - 19.7% Chance
+      <br />
+      <a href="#Horsea" title="Horsea">Horsea</a> - 19.7% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(2) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(3) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Squirtle" title="Squirtle">Squirtle</a> - 7.7% Chance
+      <br />
+      <a href="#Ekans" title="Ekans">Ekans</a> - 15.4% Chance
+      <br />
+      <a href="#Machop" title="Machop">Machop</a> - 15.4% Chance
+      <br />
+      <a href="#Grimer" title="Grimer">Grimer</a> - 15.4% Chance
+      <br />
+      <a href="#Koffing" title="Koffing">Koffing</a> - 15.4% Chance
+      <br />
+      <a href="#Horsea" title="Horsea">Horsea</a> - 15.4% Chance
+      <br />
+      <a href="#Magikarp" title="Magikarp">Magikarp</a> - 7.7% Chance
+      <br />
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 3.9% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Squirtle" title="Squirtle">Squirtle</a> - 33.6% Chance
+      <br />
+      <a href="#Tangela" title="Tangela">Tangela</a> - 4% Chance
+      <br />
+      <a href="#Magikarp" title="Magikarp">Magikarp</a> - 33.6% Chance
+      <br />
+      <a href="#Lapras" title="Lapras">Lapras</a> - 4% Chance
+      <br />
+      <a href="#Ditto" title="Ditto">Ditto</a> - 4% Chance
+      <br />
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 16.8% Chance
+      <br />
+      <a href="#Dratini" title="Dratini">Dratini</a> - 4% Chance
+      <br /> </td>
+  </tr>
+</table>
