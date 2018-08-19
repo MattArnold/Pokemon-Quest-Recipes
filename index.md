@@ -6,7 +6,7 @@ order: 1
 published: true
 ---
 
-<a id="Mulligan_Stew_a_la_Cube"></a>
+<a id="Mulligan_Stew"></a>
 
 # Mulligan Stew
 
@@ -361,7 +361,7 @@ published: true
   </tr>
 </table>
 
-<a id="Red_Stew_a_la_Cube"></a>
+<a id="Red_Stew"></a>
 
 # Red Stew
 
@@ -518,7 +518,7 @@ published: true
   </tr>
 </table>
 
-<a id="Blue_Soda_a_la_Cube"></a>
+<a id="Blue_Soda"></a>
 
 # Blue Soda
 
@@ -661,7 +661,7 @@ published: true
   </tr>
 </table>
 
-<a id="Yellow_Curry_a_la_Cube"></a>
+<a id="Yellow_Curry"></a>
 
 # Yellow Curry
 
@@ -815,7 +815,7 @@ published: true
   </tr>
 </table>
 
-<a id="Grey_Porridge_a_la_Cube"></a>
+<a id="Grey_Porridge"></a>
 
 # Grey Porridge
 
@@ -966,7 +966,7 @@ published: true
   </tr>
 </table>
 
-<a id="Mouth_Watering_Dip_a_la_Cube"></a>
+<a id="Mouth_Watering_Dip"></a>
 
 # Mouth-Watering Dip
 
@@ -1087,7 +1087,7 @@ published: true
   </tr>
 </table>
 
-<a id="Plain_Crepe_a_la_Cube"></a>
+<a id="Plain_Crepe"></a>
 
 # Plain Crepe
 
@@ -1248,7 +1248,7 @@ published: true
   </tr>
 </table>
 
-<a id="Sludge_Soup_a_la_Cube"></a>
+<a id="Sludge_Soup"></a>
 
 # Sludge Soup
 
@@ -1367,7 +1367,7 @@ published: true
   </tr>
 </table>
 
-<a id="Mud_Pie_a_la_Cube"></a>
+<a id="Mud_Pie"></a>
 
 # Mud Pie
 
@@ -1702,7 +1702,7 @@ published: true
   </tr>
 </table>
 
-<a id="Veggie_Smoothie_a_la_Cube"></a>
+<a id="Veggie_Smoothie"></a>
 
 # Veggie Smoothie
 
@@ -1798,7 +1798,7 @@ published: true
   </tr>
 </table>
 
-<a id="Honey_Nectar_a_la_Cube"></a>
+<a id="Honey_Nectar"></a>
 
 # Honey Nectar
 
@@ -1876,7 +1876,7 @@ published: true
   </tr>
 </table>
 
-<a id="Brain_Food_a_la_Cube"></a>
+<a id="Brain_Food"></a>
 
 # Brain Food
 
@@ -1961,7 +1961,7 @@ published: true
   </tr>
 </table>
 
-<a id="Stone_Soup_a_la_Cube"></a>
+<a id="Stone_Soup"></a>
 
 # Stone Soup
 
@@ -2137,7 +2137,7 @@ published: true
   </tr>
 </table>
 
-<a id="Light_As_Air_Casserole_a_la_Cube"></a>
+<a id="Light_As_Air_Casserole"></a>
 
 # Light-As-Air Casserole
 
@@ -2213,7 +2213,7 @@ published: true
   </tr>
 </table>
 
-<a id="Hot_Pot_a_la_Cube"></a>
+<a id="Hot_Pot"></a>
 
 # Hot Pot
 
@@ -2437,7 +2437,7 @@ published: true
   </tr>
 </table>
 
-<a id="Watt_a_Risotto_a_la_Cube"></a>
+<a id="Watt_a_Risotto"></a>
 
 # Watt A Risotto
 
@@ -2547,7 +2547,7 @@ published: true
   </tr>
 </table>
 
-<a id="Get_Swole_Syrup_a_la_Cube"></a>
+<a id="Get_Swole_Syrup"></a>
 
 # Get Swole Syrup
 
@@ -2617,7 +2617,7 @@ published: true
   </tr>
 </table>
 
-<a id="Ambrosia_of_Legends_a_la_Cube"></a>
+<a id="Ambrosia_of_Legends"></a>
 
 # Ambrosia Of Legends
 
@@ -2704,11 +2704,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2746,9 +2746,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -2774,11 +2774,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2802,11 +2802,11 @@ published: true
     <td> Normal
       <br />Fairy </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Gray_Porridge_a_la_Cube">Gray Porridge à la Cube</a>
+      <a href="#Gray_Porridge">Gray Porridge à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2826,11 +2826,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2855,13 +2855,13 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
       <br />
-      <a href="#Light_as_Air_a_la_Cube">Light as Air à la Cube</a>
+      <a href="#Light_as_Air">Light as Air à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2874,13 +2874,13 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
       <br />
-      <a href="#Light_as_Air_a_la_Cube">Light as Air à la Cube</a>
+      <a href="#Light_as_Air">Light as Air à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2905,11 +2905,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2921,11 +2921,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Gray_Porridge_a_la_Cube">Gray Porridge à la Cube</a>
+      <a href="#Gray_Porridge">Gray Porridge à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2937,11 +2937,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2953,11 +2953,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Gray_Porridge_a_la_Cube">Gray Porridge à la Cube</a>
+      <a href="#Gray_Porridge">Gray Porridge à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2969,11 +2969,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda à la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -2985,11 +2985,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -3001,11 +3001,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
   <tr>
@@ -3017,11 +3017,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew à la Cube</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry à la Cube</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe à la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe à la Cube</a>
     </td>
   </tr>
 </table>
@@ -3052,9 +3052,9 @@ published: true
     </td>
     <td> Fighting </td>
     <td>
-      <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
+      <a href="#Get_Swole_Syrup" title="Get Swole Syrup">Get Swole Syrup</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -3088,9 +3088,9 @@ published: true
     </td>
     <td> Fighting </td>
     <td>
-      <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
+      <a href="#Get_Swole_Syrup" title="Get Swole Syrup">Get Swole Syrup</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -3121,9 +3121,9 @@ published: true
     </td>
     <td> Fighting </td>
     <td>
-      <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
+      <a href="#Get_Swole_Syrup" title="Get Swole Syrup">Get Swole Syrup</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -3134,9 +3134,9 @@ published: true
     </td>
     <td> Fighting </td>
     <td>
-      <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
+      <a href="#Get_Swole_Syrup" title="Get Swole Syrup">Get Swole Syrup</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -3199,9 +3199,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -3241,9 +3241,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -3270,9 +3270,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
+      <a href="#Light-as-Air_Casserole" title="Light-as-Air Casserole">Light-as-Air Casserole</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -3299,11 +3299,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
+      <a href="#Light-as-Air_Casserole" title="Light-as-Air Casserole">Light-as-Air Casserole</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe</a>
       <br />
     </td>
   </tr>
@@ -3317,13 +3317,13 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
+      <a href="#Light-as-Air_Casserole" title="Light-as-Air Casserole">Light-as-Air Casserole</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -3350,11 +3350,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
+      <a href="#Light-as-Air_Casserole" title="Light-as-Air Casserole">Light-as-Air Casserole</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
     </td>
   </tr>
@@ -3381,7 +3381,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
     </td>
   </tr>
@@ -3395,7 +3395,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -3409,7 +3409,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -3423,7 +3423,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -3467,11 +3467,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
+      <a href="#Veggie_Smoothie" title="Veggie Smoothie">Veggie Smoothie</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -3511,9 +3511,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -3552,11 +3552,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -3581,7 +3581,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -3619,9 +3619,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -3660,11 +3660,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
+      <a href="#Light-as-Air_Casserole" title="Light-as-Air Casserole">Light-as-Air Casserole</a>
       <br />
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -3691,9 +3691,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -3733,11 +3733,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
     </td>
   </tr>
@@ -3764,7 +3764,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -3804,9 +3804,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -3832,11 +3832,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -3862,9 +3862,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -3903,9 +3903,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -3950,9 +3950,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
+      <a href="#Mud_Pie" title="Mud Pie">Mud Pie</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -4003,9 +4003,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
+      <a href="#Mud_Pie" title="Mud Pie">Mud Pie</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -4031,9 +4031,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -4073,11 +4073,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
+      <a href="#Mud_Pie" title="Mud Pie">Mud Pie</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -4090,9 +4090,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
+      <a href="#Mud_Pie" title="Mud Pie">Mud Pie</a>
       <br />
     </td>
   </tr>
@@ -4118,11 +4118,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -4168,9 +4168,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -4210,11 +4210,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
+      <a href="#Mud_Pie" title="Mud Pie">Mud Pie</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -4228,11 +4228,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -4259,11 +4259,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4290,11 +4290,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4321,7 +4321,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
     </td>
   </tr>
@@ -4352,9 +4352,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -4393,9 +4393,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -4435,9 +4435,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -4464,11 +4464,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
     </td>
   </tr>
@@ -4495,9 +4495,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
     </td>
   </tr>
@@ -4510,7 +4510,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
     </td>
   </tr>
@@ -4541,9 +4541,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -4600,9 +4600,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
+      <a href="#Hot_Pot" title="Hot Pot">Hot Pot</a>
       <br />
     </td>
   </tr>
@@ -4640,9 +4640,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
+      <a href="#Hot_Pot" title="Hot Pot">Hot Pot</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -4667,9 +4667,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
+      <a href="#Hot_Pot" title="Hot Pot">Hot Pot</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -4694,11 +4694,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
+      <a href="#Hot_Pot" title="Hot Pot">Hot Pot</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -4723,9 +4723,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
+      <a href="#Hot_Pot" title="Hot Pot">Hot Pot</a>
       <br />
     </td>
   </tr>
@@ -4751,7 +4751,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -4781,7 +4781,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -4818,9 +4818,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4845,9 +4845,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4886,9 +4886,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4915,11 +4915,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4945,9 +4945,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -4975,11 +4975,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5005,9 +5005,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5032,9 +5032,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5059,9 +5059,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5086,9 +5086,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5114,7 +5114,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -5141,9 +5141,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5169,11 +5169,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5200,11 +5200,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
+      <a href="#Stone_Soup" title="Stone Soup">Stone Soup</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5253,11 +5253,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
+      <a href="#Sludge_Soup" title="Sludge Soup">Sludge Soup</a>
       <br />
-      <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
+      <a href="#Veggie_Smoothie" title="Veggie Smoothie">Veggie Smoothie</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -5297,9 +5297,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -5339,11 +5339,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
+      <a href="#Honey" title="Honey" class="mw-redirect">Honey</a>
       <br />
-      <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
+      <a href="#Veggie_Smoothie" title="Veggie Smoothie">Veggie Smoothie</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -5370,7 +5370,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -5410,11 +5410,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
+      <a href="#Veggie_Smoothie" title="Veggie Smoothie">Veggie Smoothie</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -5440,9 +5440,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
+      <a href="#Veggie_Smoothie" title="Veggie Smoothie">Veggie Smoothie</a>
       <br />
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -5474,7 +5474,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
+      <a href="#Watt_a_Risotto" title="Watt a Risotto">Watt a Risotto</a>
       <br />
     </td>
   </tr>
@@ -5500,9 +5500,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
+      <a href="#Watt_a_Risotto" title="Watt a Risotto">Watt a Risotto</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -5528,9 +5528,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
+      <a href="#Watt_a_Risotto" title="Watt a Risotto">Watt a Risotto</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -5553,7 +5553,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
+      <a href="#Watt_a_Risotto" title="Watt a Risotto">Watt a Risotto</a>
       <br />
     </td>
   </tr>
@@ -5579,7 +5579,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -5610,9 +5610,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
     </td>
   </tr>
@@ -5650,9 +5650,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -5678,9 +5678,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
+      <a href="#Yellow_Curry" title="Yellow Curry">Yellow Curry</a>
       <br />
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
     </td>
   </tr>
@@ -5706,11 +5706,11 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
+      <a href="#Veggie_Smoothie" title="Veggie Smoothie">Veggie Smoothie</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -5748,7 +5748,7 @@ published: true
     <td> Psychic
       <br />Fairy </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
     </td>
   </tr>
@@ -5762,9 +5762,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -5777,7 +5777,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -5790,7 +5790,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -5847,9 +5847,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
-      <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
+      <a href="#Red_Stew" title="Red Stew">Red Stew</a>
       <br />
     </td>
   </tr>
@@ -5863,9 +5863,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
-      <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
+      <a href="#Mouth_Watering_Dip" title="Mouth Watering Dip">Mouth Watering Dip</a>
       <br />
     </td>
   </tr>
@@ -5879,7 +5879,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
+      <a href="#Ambrosia_of_Legends" title="Ambrosia of Legends">Ambrosia of Legends</a>
       <br />
     </td>
   </tr>
@@ -5910,7 +5910,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
+      <a href="#Blue_Soda" title="Blue Soda">Blue Soda</a>
       <br />
     </td>
   </tr>
@@ -5968,9 +5968,9 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
+      <a href="#Watt_a_Risotto" title="Watt a Risotto">Watt a Risotto</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -6014,9 +6014,9 @@ published: true
     </td>
     <td> Fairy </td>
     <td>
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
-      <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
+      <a href="#Mulligan_Stew" title="Mulligan Stew">Mulligan Stew</a>
       <br />
     </td>
   </tr>
@@ -6035,9 +6035,9 @@ published: true
     <td> Normal
       <br />Fairy </td>
     <td>
-      <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
+      <a href="#Plain_Crepe" title="Plain Crepe">Plain Crepe</a>
       <br />
-      <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
+      <a href="#Grey_Porridge" title="Grey Porridge">Grey Porridge</a>
       <br />
     </td>
   </tr>
@@ -6057,7 +6057,7 @@ published: true
     <td> Psychic
       <br />Fairy </td>
     <td>
-      <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
+      <a href="#Brain_Food" title="Brain Food">Brain Food</a>
       <br />
     </td>
   </tr>
