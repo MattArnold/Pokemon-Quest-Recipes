@@ -6,7 +6,7 @@ order: 1
 published: true
 ---
 
- # Mulligan Stew
+# Mulligan Stew
 <table>
   <tr>
     <th> Ingredients </th>
