@@ -2637,6 +2637,7 @@ published: true
   </tr>
 </table>
 
+
 <table>
   <tr>
     <th>
@@ -2726,7 +2727,7 @@ published: true
   <tr>
     <td> 021 </td>
     <td>
-      <a href="#Spearow" title="Spearow">Spearow</a>
+      <a id="Spearow" title="Spearow">Spearow</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2779,7 +2780,7 @@ published: true
   <tr>
     <td> 052 </td>
     <td>
-      <a href="#Meowth" title="Meowth">Meowth</a>
+      <a id="Meowth" title="Meowth">Meowth</a>
     </td>
     <td> Normal
       <br />
@@ -2795,7 +2796,7 @@ published: true
   <tr>
     <td> 053 </td>
     <td>
-      <a href="#Persian" title="Persian">Persian</a>
+      <a id="Persian" title="Persian">Persian</a>
     </td>
     <td> Normal
       <br />
@@ -2807,7 +2808,7 @@ published: true
   <tr>
     <td> 083 </td>
     <td>
-      <a href="#Farfetch%27d">Farfetch'd</a>
+      <a id="Farfetch%27d">Farfetch'd</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2826,7 +2827,7 @@ published: true
   <tr>
     <td> 084 </td>
     <td>
-      <a href="#Doduo" title="Doduo">Doduo</a>
+      <a id="Doduo" title="Doduo">Doduo</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2845,7 +2846,7 @@ published: true
   <tr>
     <td> 085 </td>
     <td>
-      <a href="#Dodrio" title="Dodrio">Dodrio</a>
+      <a id="Dodrio" title="Dodrio">Dodrio</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2858,7 +2859,7 @@ published: true
   <tr>
     <td> 108 </td>
     <td>
-      <a href="#Lickitung" title="Lickitung">Lickitung</a>
+      <a id="Lickitung" title="Lickitung">Lickitung</a>
     </td>
     <td> Normal
       <br />
@@ -2874,7 +2875,7 @@ published: true
   <tr>
     <td> 113 </td>
     <td>
-      <a href="#Chansey" title="Chansey">Chansey</a>
+      <a id="Chansey" title="Chansey">Chansey</a>
     </td>
     <td> Normal
       <br />
@@ -2890,7 +2891,7 @@ published: true
   <tr>
     <td> 115 </td>
     <td>
-      <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a>
+      <a id="Kangaskhan" title="Kangaskhan">Kangaskhan</a>
     </td>
     <td> Normal
       <br />
@@ -2906,7 +2907,7 @@ published: true
   <tr>
     <td> 128 </td>
     <td>
-      <a href="#Tauros" title="Tauros">Tauros</a>
+      <a id="Tauros" title="Tauros">Tauros</a>
     </td>
     <td> Normal
       <br />
@@ -2922,7 +2923,7 @@ published: true
   <tr>
     <td> 132 </td>
     <td>
-      <a href="#Ditto" title="Ditto">Ditto</a>
+      <a id="Ditto" title="Ditto">Ditto</a>
     </td>
     <td> Normal
       <br />
@@ -2938,7 +2939,7 @@ published: true
   <tr>
     <td> 133 </td>
     <td>
-      <a href="#Eevee" title="Eevee">Eevee</a>
+      <a id="Eevee" title="Eevee">Eevee</a>
     </td>
     <td> Normal
       <br />
@@ -2954,7 +2955,7 @@ published: true
   <tr>
     <td> 137 </td>
     <td>
-      <a href="#Porygon" title="Porygon">Porygon</a>
+      <a id="Porygon" title="Porygon">Porygon</a>
     </td>
     <td> Normal
       <br />
@@ -2970,7 +2971,7 @@ published: true
   <tr>
     <td> 143 </td>
     <td>
-      <a href="#Snorlax" title="Snorlax">Snorlax</a>
+      <a id="Snorlax" title="Snorlax">Snorlax</a>
     </td>
     <td> Normal
       <br />
@@ -2985,7 +2986,7 @@ published: true
   </tr>
 </table>
 <h3 id="Fighting" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/3/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Fighting
+  Fighting
   <br />
 </h3>
 <table style="width: 468px">
@@ -3007,7 +3008,7 @@ published: true
   <tr>
     <td> 056 </td>
     <td> |
-      <a href="#Mankey" title="Mankey">Mankey</a>
+      <a id="Mankey" title="Mankey">Mankey</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3020,7 +3021,7 @@ published: true
   <tr>
     <td> 057 </td>
     <td>
-      <a href="#Primeape" title="Primeape">Primeape</a>
+      <a id="Primeape" title="Primeape">Primeape</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3030,7 +3031,7 @@ published: true
   <tr>
     <td> 062 </td>
     <td>
-      <a href="#Poliwrath" title="Poliwrath">Poliwrath</a>
+      <a id="Poliwrath" title="Poliwrath">Poliwrath</a>
     </td>
     <td> Fighting
       <br />Water
@@ -3043,7 +3044,7 @@ published: true
   <tr>
     <td> 066 </td>
     <td>
-      <a href="#Machop" title="Machop">Machop</a>
+      <a id="Machop" title="Machop">Machop</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3056,7 +3057,7 @@ published: true
   <tr>
     <td> 067 </td>
     <td>
-      <a href="#Machoke" title="Machoke">Machoke</a>
+      <a id="Machoke" title="Machoke">Machoke</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3066,7 +3067,7 @@ published: true
   <tr>
     <td> 068 </td>
     <td>
-      <a href="#Machamp" title="Machamp">Machamp</a>
+      <a id="Machamp" title="Machamp">Machamp</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3076,7 +3077,7 @@ published: true
   <tr>
     <td> 106 </td>
     <td>
-      <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a>
+      <a id="Hitmonlee" title="Hitmonlee">Hitmonlee</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3089,7 +3090,7 @@ published: true
   <tr>
     <td> 107 </td>
     <td>
-      <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a>
+      <a id="Hitmonchan" title="Hitmonchan">Hitmonchan</a>
     </td>
     <td> Fighting </td>
     <td>
@@ -3101,7 +3102,7 @@ published: true
   </tr>
 </table>
 <h3 id="Flying" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/4/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Flying
+  Flying
   <br />
 </h3>
 <span class="ad-placement"></span>
@@ -3125,7 +3126,7 @@ published: true
   <tr>
     <td> 006 </td>
     <td>
-      <a href="#Charizard" title="Charizard">Charizard</a>
+      <a id="Charizard" title="Charizard">Charizard</a>
     </td>
     <td> Flying
       <br />Fire
@@ -3138,7 +3139,7 @@ published: true
   <tr>
     <td> 012 </td>
     <td>
-      <a href="#Butterfree" title="Butterfree">Butterfree</a>
+      <a id="Butterfree" title="Butterfree">Butterfree</a>
     </td>
     <td> Flying
       <br />Bug
@@ -3151,7 +3152,7 @@ published: true
   <tr>
     <td> 016 </td>
     <td>
-      <a href="#Pidgey" title="Pidgey">Pidgey</a>
+      <a id="Pidgey" title="Pidgey">Pidgey</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3167,7 +3168,7 @@ published: true
   <tr>
     <td> 017 </td>
     <td>
-      <a href="#Pidgeotto" title="Pidgeotto">Pidgeotto</a>
+      <a id="Pidgeotto" title="Pidgeotto">Pidgeotto</a>
     </td>
     <td> Flying
       <br />Norma
@@ -3180,7 +3181,7 @@ published: true
   <tr>
     <td> 018 </td>
     <td>
-      <a href="#Pidgeot" title="Pidgeot">Pidgeot</a>
+      <a id="Pidgeot" title="Pidgeot">Pidgeot</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3193,7 +3194,7 @@ published: true
   <tr>
     <td> 021 </td>
     <td>
-      <a href="#Spearow" title="Spearow">Spearow</a>
+      <a id="Spearow" title="Spearow">Spearow</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3209,7 +3210,7 @@ published: true
   <tr>
     <td> 022 </td>
     <td>
-      <a href="#Fearow" title="Fearow">Fearow</a>
+      <a id="Fearow" title="Fearow">Fearow</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3222,7 +3223,7 @@ published: true
   <tr>
     <td> 041 </td>
     <td>
-      <a href="#Zubat" title="Zubat">Zubat</a>
+      <a id="Zubat" title="Zubat">Zubat</a>
     </td>
     <td> Flying
       <br />Poison
@@ -3238,7 +3239,7 @@ published: true
   <tr>
     <td> 042 </td>
     <td>
-      <a href="#Golbat" title="Golbat">Golbat</a>
+      <a id="Golbat" title="Golbat">Golbat</a>
     </td>
     <td> Flying
       <br />Poison
@@ -3251,7 +3252,7 @@ published: true
   <tr>
     <td> 083 </td>
     <td>
-      <a href="#Farfetch%27d">Farfetch'd</a>
+      <a id="Farfetch%27d">Farfetch'd</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3269,7 +3270,7 @@ published: true
   <tr>
     <td> 084 </td>
     <td>
-      <a href="#Doduo" title="Doduo">Doduo</a>
+      <a id="Doduo" title="Doduo">Doduo</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3289,7 +3290,7 @@ published: true
   <tr>
     <td> 085 </td>
     <td>
-      <a href="#Dodrio" title="Dodrio">Dodrio</a>
+      <a id="Dodrio" title="Dodrio">Dodrio</a>
     </td>
     <td> Flying
       <br />Normal
@@ -3302,7 +3303,7 @@ published: true
   <tr>
     <td> 123 </td>
     <td>
-      <a href="#Scyther" title="Scyther">Scyther</a>
+      <a id="Scyther" title="Scyther">Scyther</a>
     </td>
     <td> Flying
       <br />Bug
@@ -3320,7 +3321,7 @@ published: true
   <tr>
     <td> 130 </td>
     <td>
-      <a href="#Gyarados" title="Gyarados">Gyarados</a>
+      <a id="Gyarados" title="Gyarados">Gyarados</a>
     </td>
     <td> Flying
       <br />Water
@@ -3333,7 +3334,7 @@ published: true
   <tr>
     <td> 142 </td>
     <td>
-      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a>
+      <a id="Aerodactyl" title="Aerodactyl">Aerodactyl</a>
     </td>
     <td> Flying
       <br />Rock
@@ -3347,7 +3348,7 @@ published: true
   <tr>
     <td> 144 </td>
     <td>
-      <a href="#Articuno" title="Articuno">Articuno</a>
+      <a id="Articuno" title="Articuno">Articuno</a>
     </td>
     <td> Flying
       <br />Ice
@@ -3361,7 +3362,7 @@ published: true
   <tr>
     <td> 145 </td>
     <td>
-      <a href="#Zapdos" title="Zapdos">Zapdos</a>
+      <a id="Zapdos" title="Zapdos">Zapdos</a>
     </td>
     <td> Flying
       <br />Electric
@@ -3375,7 +3376,7 @@ published: true
   <tr>
     <td> 146 </td>
     <td>
-      <a href="#Moltres" title="Moltres">Moltres</a>
+      <a id="Moltres" title="Moltres">Moltres</a>
     </td>
     <td> Flying
       <br />Fire
@@ -3389,7 +3390,7 @@ published: true
   <tr>
     <td> 149 </td>
     <td>
-      <a href="#Dragonite" title="Dragonite">Dragonite</a>
+      <a id="Dragonite" title="Dragonite">Dragonite</a>
     </td>
     <td> Flying
       <br />Dragon
@@ -3401,7 +3402,7 @@ published: true
   </tr>
 </table>
 <h3 id="Poison" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/5/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Poison</h3>
+  Poison</h3>
 <table style="width: 468px">
   <tr>
     <th> Pokédex
@@ -3419,7 +3420,7 @@ published: true
   <tr>
     <td> 001 </td>
     <td>
-      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a>
+      <a id="Bulbasaur" title="Bulbasaur">Bulbasaur</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3437,7 +3438,7 @@ published: true
   <tr>
     <td> 002 </td>
     <td>
-      <a href="#Ivysaur" title="Ivysaur">Ivysaur</a>
+      <a id="Ivysaur" title="Ivysaur">Ivysaur</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3450,7 +3451,7 @@ published: true
   <tr>
     <td> 003 </td>
     <td>
-      <a href="#Venusaur" title="Venusaur">Venusaur</a>
+      <a id="Venusaur" title="Venusaur">Venusaur</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3463,7 +3464,7 @@ published: true
   <tr>
     <td> 013 </td>
     <td>
-      <a href="#Weedle" title="Weedle">Weedle</a>
+      <a id="Weedle" title="Weedle">Weedle</a>
     </td>
     <td> Poison
       <br />Bug
@@ -3479,7 +3480,7 @@ published: true
   <tr>
     <td> 014 </td>
     <td>
-      <a href="#Kakuna" title="Kakuna">Kakuna</a>
+      <a id="Kakuna" title="Kakuna">Kakuna</a>
     </td>
     <td> Poison
       <br />Bug
@@ -3492,7 +3493,7 @@ published: true
   <tr>
     <td> 015 </td>
     <td>
-      <a href="#Beedrill" title="Beedrill">Beedrill</a>
+      <a id="Beedrill" title="Beedrill">Beedrill</a>
     </td>
     <td> Poison
       <br />Bug
@@ -3505,7 +3506,7 @@ published: true
   <tr>
     <td> 023 </td>
     <td>
-      <a href="#Ekans" title="Ekans">Ekans</a>
+      <a id="Ekans" title="Ekans">Ekans</a>
     </td>
     <td> Poison
       <br />
@@ -3522,7 +3523,7 @@ published: true
   <tr>
     <td> 024 </td>
     <td>
-      <a href="#Arbok" title="Arbok">Arbok</a>
+      <a id="Arbok" title="Arbok">Arbok</a>
     </td>
     <td> Poison
       <br />
@@ -3534,7 +3535,7 @@ published: true
   <tr>
     <td> 029 </td>
     <td>
-      <a href="#NidoranF" title="NidoranF" class="mw-redirect">Nidoran♀</a>
+      <a id="NidoranF" title="NidoranF" class="mw-redirect">Nidoran♀</a>
     </td>
     <td> Poison
       <br />
@@ -3547,7 +3548,7 @@ published: true
   <tr>
     <td> 030 </td>
     <td>
-      <a href="#Nidorina" title="Nidorina">Nidorina</a>
+      <a id="Nidorina" title="Nidorina">Nidorina</a>
     </td>
     <td> Poison
       <br />
@@ -3559,7 +3560,7 @@ published: true
   <tr>
     <td> 031 </td>
     <td>
-      <a href="#Nidoqueen" title="Nidoqueen">Nidoqueen</a>
+      <a id="Nidoqueen" title="Nidoqueen">Nidoqueen</a>
     </td>
     <td> Poison
       <br />Ground
@@ -3572,7 +3573,7 @@ published: true
   <tr>
     <td> 032 </td>
     <td>
-      <a href="#NidoranM" title="NidoranM" class="mw-redirect">Nidoran♂</a>
+      <a id="NidoranM" title="NidoranM" class="mw-redirect">Nidoran♂</a>
     </td>
     <td> Poison
       <br />
@@ -3587,7 +3588,7 @@ published: true
   <tr>
     <td> 033 </td>
     <td>
-      <a href="#Nidorino" title="Nidorino">Nidorino</a>
+      <a id="Nidorino" title="Nidorino">Nidorino</a>
     </td>
     <td> Poison
       <br />
@@ -3599,7 +3600,7 @@ published: true
   <tr>
     <td> 034 </td>
     <td>
-      <a href="#Nidoking" title="Nidoking">Nidoking</a>
+      <a id="Nidoking" title="Nidoking">Nidoking</a>
     </td>
     <td> Poison
       <br />Ground
@@ -3612,7 +3613,7 @@ published: true
   <tr>
     <td> 041 </td>
     <td>
-      <a href="#Zubat" title="Zubat">Zubat</a>
+      <a id="Zubat" title="Zubat">Zubat</a>
     </td>
     <td> Poison
       <br />Flying
@@ -3630,7 +3631,7 @@ published: true
   <tr>
     <td> 042 </td>
     <td>
-      <a href="#Golbat" title="Golbat">Golbat</a>
+      <a id="Golbat" title="Golbat">Golbat</a>
     </td>
     <td> Poison
       <br />Flying
@@ -3643,7 +3644,7 @@ published: true
   <tr>
     <td> 043 </td>
     <td>
-      <a href="#Oddish" title="Oddish">Oddish</a>
+      <a id="Oddish" title="Oddish">Oddish</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3659,7 +3660,7 @@ published: true
   <tr>
     <td> 044 </td>
     <td>
-      <a href="#Gloom" title="Gloom">Gloom</a>
+      <a id="Gloom" title="Gloom">Gloom</a>
     </td>
     <td> Poiuson
       <br />Grass
@@ -3672,7 +3673,7 @@ published: true
   <tr>
     <td> 045 </td>
     <td>
-      <a href="#Vileplume" title="Vileplume">Vileplume</a>
+      <a id="Vileplume" title="Vileplume">Vileplume</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3685,7 +3686,7 @@ published: true
   <tr>
     <td> 048 </td>
     <td>
-      <a href="#Venonat" title="Venonat">Venonat</a>
+      <a id="Venonat" title="Venonat">Venonat</a>
     </td>
     <td> Poison
       <br />Bug
@@ -3703,7 +3704,7 @@ published: true
   <tr>
     <td> 049 </td>
     <td>
-      <a href="#Venomoth" title="Venomoth">Venomoth</a>
+      <a id="Venomoth" title="Venomoth">Venomoth</a>
     </td>
     <td> Poison
       <br />Bug
@@ -3716,7 +3717,7 @@ published: true
   <tr>
     <td> 069 </td>
     <td>
-      <a href="#Bellsprout" title="Bellsprout">Bellsprout</a>
+      <a id="Bellsprout" title="Bellsprout">Bellsprout</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3730,7 +3731,7 @@ published: true
   <tr>
     <td> 070 </td>
     <td>
-      <a href="#Weepinbell" title="Weepinbell">Weepinbell</a>
+      <a id="Weepinbell" title="Weepinbell">Weepinbell</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3743,7 +3744,7 @@ published: true
   <tr>
     <td> 071 </td>
     <td>
-      <a href="#Victreebel" title="Victreebel">Victreebel</a>
+      <a id="Victreebel" title="Victreebel">Victreebel</a>
     </td>
     <td> Poison
       <br />Grass
@@ -3756,7 +3757,7 @@ published: true
   <tr>
     <td> 072 </td>
     <td>
-      <a href="#Tentacool" title="Tentacool">Tentacool</a>
+      <a id="Tentacool" title="Tentacool">Tentacool</a>
     </td>
     <td> Poison
       <br />Water
@@ -3772,7 +3773,7 @@ published: true
   <tr>
     <td> 073 </td>
     <td>
-      <a href="#Tentacruel" title="Tentacruel">Tentacruel</a>
+      <a id="Tentacruel" title="Tentacruel">Tentacruel</a>
     </td>
     <td> Poison
       <br />Water
@@ -3785,7 +3786,7 @@ published: true
   <tr>
     <td> 088 </td>
     <td>
-      <a href="#Grimer" title="Grimer">Grimer</a>
+      <a id="Grimer" title="Grimer">Grimer</a>
     </td>
     <td> Poison
       <br />
@@ -3802,7 +3803,7 @@ published: true
   <tr>
     <td> 089 </td>
     <td>
-      <a href="#Muk" title="Muk">Muk</a>
+      <a id="Muk" title="Muk">Muk</a>
     </td>
     <td> Poison
       <br />
@@ -3814,7 +3815,7 @@ published: true
   <tr>
     <td> 092 </td>
     <td>
-      <a href="#Gastly" title="Gastly">Gastly</a>
+      <a id="Gastly" title="Gastly">Gastly</a>
     </td>
     <td> Poison
       <br />Ghost
@@ -3830,7 +3831,7 @@ published: true
   <tr>
     <td> 093 </td>
     <td>
-      <a href="#Haunter" title="Haunter">Haunter</a>
+      <a id="Haunter" title="Haunter">Haunter</a>
     </td>
     <td> Poison
       <br />Ghost
@@ -3843,7 +3844,7 @@ published: true
   <tr>
     <td> 094 </td>
     <td>
-      <a href="#Gengar" title="Gengar">Gengar</a>
+      <a id="Gengar" title="Gengar">Gengar</a>
     </td>
     <td> Poison
       <br />Ghost
@@ -3856,7 +3857,7 @@ published: true
   <tr>
     <td> 109 </td>
     <td>
-      <a href="#Koffing" title="Koffing">Koffing</a>
+      <a id="Koffing" title="Koffing">Koffing</a>
     </td>
     <td> Poison
       <br />
@@ -3871,7 +3872,7 @@ published: true
   <tr>
     <td> 110 </td>
     <td>
-      <a href="#Weezing" title="Weezing">Weezing</a>
+      <a id="Weezing" title="Weezing">Weezing</a>
     </td>
     <td> Poison
       <br />
@@ -3882,7 +3883,7 @@ published: true
   </tr>
 </table>
 <h3 id="Ground" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/6/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Ground</h3>
+  Ground</h3>
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
@@ -3903,7 +3904,7 @@ published: true
   <tr>
     <td> 027 </td>
     <td>
-      <a href="#Sandshrew" title="Sandshrew">Sandshrew</a>
+      <a id="Sandshrew" title="Sandshrew">Sandshrew</a>
     </td>
     <td> Ground
       <br />
@@ -3918,7 +3919,7 @@ published: true
   <tr>
     <td> 028 </td>
     <td>
-      <a href="#Sandslash" title="Sandslash">Sandslash</a>
+      <a id="Sandslash" title="Sandslash">Sandslash</a>
     </td>
     <td> Ground
       <br />
@@ -3930,7 +3931,7 @@ published: true
   <tr>
     <td> 031 </td>
     <td>
-      <a href="#Nidoqueen" title="Nidoqueen">Nidoqueen</a>
+      <a id="Nidoqueen" title="Nidoqueen">Nidoqueen</a>
     </td>
     <td> Ground
       <br />Poison
@@ -3943,7 +3944,7 @@ published: true
   <tr>
     <td> 034 </td>
     <td>
-      <a href="#Nidoking" title="Nidoking">Nidoking</a>
+      <a id="Nidoking" title="Nidoking">Nidoking</a>
     </td>
     <td> Ground
       <br />Poison
@@ -3956,7 +3957,7 @@ published: true
   <tr>
     <td> 050 </td>
     <td>
-      <a href="#Diglett" title="Diglett">Diglett</a>
+      <a id="Diglett" title="Diglett">Diglett</a>
     </td>
     <td> Ground
       <br />
@@ -3971,7 +3972,7 @@ published: true
   <tr>
     <td> 051 </td>
     <td>
-      <a href="#Dugtrio" title="Dugtrio">Dugtrio</a>
+      <a id="Dugtrio" title="Dugtrio">Dugtrio</a>
     </td>
     <td> Ground
       <br />
@@ -3983,7 +3984,7 @@ published: true
   <tr>
     <td> 074 </td>
     <td>
-      <a href="#Geodude" title="Geodude">Geodude</a>
+      <a id="Geodude" title="Geodude">Geodude</a>
     </td>
     <td> Ground
       <br />Rock
@@ -3999,7 +4000,7 @@ published: true
   <tr>
     <td> 075 </td>
     <td>
-      <a href="#Graveler" title="Graveler">Graveler</a>
+      <a id="Graveler" title="Graveler">Graveler</a>
     </td>
     <td> Ground
       <br />Rock
@@ -4012,7 +4013,7 @@ published: true
   <tr>
     <td> 076 </td>
     <td>
-      <a href="#Golem" title="Golem">Golem</a>
+      <a id="Golem" title="Golem">Golem</a>
     </td>
     <td> Ground
       <br />Rock
@@ -4025,7 +4026,7 @@ published: true
   <tr>
     <td> 095 </td>
     <td>
-      <a href="#Onix" title="Onix">Onix</a>
+      <a id="Onix" title="Onix">Onix</a>
     </td>
     <td> Ground
       <br />Rock
@@ -4043,7 +4044,7 @@ published: true
   <tr>
     <td> 104 </td>
     <td>
-      <a href="#Cubone" title="Cubone">Cubone</a>
+      <a id="Cubone" title="Cubone">Cubone</a>
     </td>
     <td> Ground
       <br />
@@ -4058,7 +4059,7 @@ published: true
   <tr>
     <td> 105 </td>
     <td>
-      <a href="#Marowak" title="Marowak">Marowak</a>
+      <a id="Marowak" title="Marowak">Marowak</a>
     </td>
     <td> Ground
       <br />
@@ -4070,7 +4071,7 @@ published: true
   <tr>
     <td> 111 </td>
     <td>
-      <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a>
+      <a id="Rhyhorn" title="Rhyhorn">Rhyhorn</a>
     </td>
     <td> Ground
       <br />Rock
@@ -4088,7 +4089,7 @@ published: true
   <tr>
     <td> 112 </td>
     <td>
-      <a href="#Rhydon" title="Rhydon">Rhydon</a>
+      <a id="Rhydon" title="Rhydon">Rhydon</a>
     </td>
     <td> Ground
       <br />Rock
@@ -4100,7 +4101,7 @@ published: true
   </tr>
 </table>
 <h3 id="Rock" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/7/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Rock
+  Rock
   <br />
 </h3>
 <table style="width: 468px">
@@ -4120,7 +4121,7 @@ published: true
   <tr>
     <td> 074 </td>
     <td>
-      <a href="#Geodude" title="Geodude">Geodude</a>
+      <a id="Geodude" title="Geodude">Geodude</a>
     </td>
     <td> Rock
       <br />Ground
@@ -4136,7 +4137,7 @@ published: true
   <tr>
     <td> 075 </td>
     <td>
-      <a href="#Graveler" title="Graveler">Graveler</a>
+      <a id="Graveler" title="Graveler">Graveler</a>
     </td>
     <td> Rock
       <br />Ground
@@ -4149,7 +4150,7 @@ published: true
   <tr>
     <td> 076 </td>
     <td>
-      <a href="#Golem" title="Golem">Golem</a>
+      <a id="Golem" title="Golem">Golem</a>
     </td>
     <td> Rock
       <br />Ground
@@ -4162,7 +4163,7 @@ published: true
   <tr>
     <td> 095 </td>
     <td>
-      <a href="#Onix" title="Onix">Onix</a>
+      <a id="Onix" title="Onix">Onix</a>
     </td>
     <td> Rock
       <br />Ground
@@ -4180,7 +4181,7 @@ published: true
   <tr>
     <td> 111 </td>
     <td>
-      <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a>
+      <a id="Rhyhorn" title="Rhyhorn">Rhyhorn</a>
     </td>
     <td> Rock
       <br />Ground
@@ -4198,7 +4199,7 @@ published: true
   <tr>
     <td> 112 </td>
     <td>
-      <a href="#Rhydon" title="Rhydon">Rhydon</a>
+      <a id="Rhydon" title="Rhydon">Rhydon</a>
     </td>
     <td> Rock
       <br />Ground
@@ -4211,7 +4212,7 @@ published: true
   <tr>
     <td> 138 </td>
     <td>
-      <a href="#Omanyte" title="Omanyte">Omanyte</a>
+      <a id="Omanyte" title="Omanyte">Omanyte</a>
     </td>
     <td> Rock
       <br />Water
@@ -4229,7 +4230,7 @@ published: true
   <tr>
     <td> 139 </td>
     <td>
-      <a href="#Omastar" title="Omastar">Omastar</a>
+      <a id="Omastar" title="Omastar">Omastar</a>
     </td>
     <td> Rock
       <br />Water
@@ -4242,7 +4243,7 @@ published: true
   <tr>
     <td> 140 </td>
     <td>
-      <a href="#Kabuto" title="Kabuto">Kabuto</a>
+      <a id="Kabuto" title="Kabuto">Kabuto</a>
     </td>
     <td> Rock
       <br />Water
@@ -4260,7 +4261,7 @@ published: true
   <tr>
     <td> 141 </td>
     <td>
-      <a href="#Kabutops" title="Kabutops">Kabutops</a>
+      <a id="Kabutops" title="Kabutops">Kabutops</a>
     </td>
     <td> Rock
       <br />Water
@@ -4273,7 +4274,7 @@ published: true
   <tr>
     <td> 142 </td>
     <td>
-      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a>
+      <a id="Aerodactyl" title="Aerodactyl">Aerodactyl</a>
     </td>
     <td> Rock
       <br />Flying
@@ -4286,7 +4287,7 @@ published: true
   </tr>
 </table>
 <h3 id="Bug" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/8/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Bug</h3>
+  Bug</h3>
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
@@ -4305,7 +4306,7 @@ published: true
   <tr>
     <td> 010 </td>
     <td>
-      <a href="#Caterpie" title="Caterpie">Caterpie</a>
+      <a id="Caterpie" title="Caterpie">Caterpie</a>
     </td>
     <td> Bug
       <br />
@@ -4320,7 +4321,7 @@ published: true
   <tr>
     <td> 011 </td>
     <td>
-      <a href="#Metapod" title="Metapod">Metapod</a>
+      <a id="Metapod" title="Metapod">Metapod</a>
     </td>
     <td> Bug
       <br />
@@ -4332,7 +4333,7 @@ published: true
   <tr>
     <td> 012 </td>
     <td>
-      <a href="#Butterfree" title="Butterfree">Butterfree</a>
+      <a id="Butterfree" title="Butterfree">Butterfree</a>
     </td>
     <td> Bug
       <br />Flying
@@ -4345,7 +4346,7 @@ published: true
   <tr>
     <td> 013 </td>
     <td>
-      <a href="#Weedle" title="Weedle">Weedle</a>
+      <a id="Weedle" title="Weedle">Weedle</a>
     </td>
     <td> Bug
       <br />Poison
@@ -4361,7 +4362,7 @@ published: true
   <tr>
     <td> 014 </td>
     <td>
-      <a href="#Kakuna" title="Kakuna">Kakuna</a>
+      <a id="Kakuna" title="Kakuna">Kakuna</a>
     </td>
     <td> Bug
       <br />Poison
@@ -4374,7 +4375,7 @@ published: true
   <tr>
     <td> 015 </td>
     <td>
-      <a href="#Beedrill" title="Beedrill">Beedrill</a>
+      <a id="Beedrill" title="Beedrill">Beedrill</a>
     </td>
     <td> Bug
       <br />Poison
@@ -4387,7 +4388,7 @@ published: true
   <tr>
     <td> 046 </td>
     <td>
-      <a href="#Paras" title="Paras">Paras</a>
+      <a id="Paras" title="Paras">Paras</a>
     </td>
     <td> Bug
       <br />Grass
@@ -4403,7 +4404,7 @@ published: true
   <tr>
     <td> 047 </td>
     <td>
-      <a href="#Parasect" title="Parasect">Parasect</a>
+      <a id="Parasect" title="Parasect">Parasect</a>
     </td>
     <td> Bug
       <br />Grass
@@ -4416,7 +4417,7 @@ published: true
   <tr>
     <td> 048 </td>
     <td>
-      <a href="#Venonat" title="Venonat">Venonat</a>
+      <a id="Venonat" title="Venonat">Venonat</a>
     </td>
     <td> Bug
       <br />Poison
@@ -4434,7 +4435,7 @@ published: true
   <tr>
     <td> 049 </td>
     <td>
-      <a href="#Venomoth" title="Venomoth">Venomoth</a>
+      <a id="Venomoth" title="Venomoth">Venomoth</a>
     </td>
     <td> Bug
       <br />Poison
@@ -4447,7 +4448,7 @@ published: true
   <tr>
     <td> 123 </td>
     <td>
-      <a href="#Scyther" title="Scyther">Scyther</a>
+      <a id="Scyther" title="Scyther">Scyther</a>
     </td>
     <td> Bug
       <br />Flying
@@ -4463,7 +4464,7 @@ published: true
   <tr>
     <td> 127 </td>
     <td>
-      <a href="#Pinsir" title="Pinsir">Pinsir</a>
+      <a id="Pinsir" title="Pinsir">Pinsir</a>
     </td>
     <td> Bug
       <br />
@@ -4475,7 +4476,7 @@ published: true
   </tr>
 </table>
 <h3 id="Ghost" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/9/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Ghost</h3>
+  Ghost</h3>
 <table style="width: 468px">
   <tr>
     <th> Pokédex
@@ -4493,7 +4494,7 @@ published: true
   <tr>
     <td> 092 </td>
     <td>
-      <a href="#Gastly" title="Gastly">Gastly</a>
+      <a id="Gastly" title="Gastly">Gastly</a>
     </td>
     <td> Ghost
       <br />Poison
@@ -4509,7 +4510,7 @@ published: true
   <tr>
     <td> 093 </td>
     <td>
-      <a href="#Haunter" title="Haunter">Haunter</a>
+      <a id="Haunter" title="Haunter">Haunter</a>
     </td>
     <td> Ghost
       <br />Poison
@@ -4522,7 +4523,7 @@ published: true
   <tr>
     <td> 094 </td>
     <td>
-      <a href="#Gengar" title="Gengar">Gengar</a>
+      <a id="Gengar" title="Gengar">Gengar</a>
     </td>
     <td> Ghost
       <br />Poison
@@ -4534,7 +4535,7 @@ published: true
   </tr>
 </table>
 <h3 id="Fire" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/10/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Fire</h3>
+  Fire</h3>
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
@@ -4553,7 +4554,7 @@ published: true
   <tr>
     <td> 004 </td>
     <td>
-      <a href="#Charmander" title="Charmander">Charmander</a>
+      <a id="Charmander" title="Charmander">Charmander</a>
     </td>
     <td> Fire
       <br />
@@ -4568,7 +4569,7 @@ published: true
   <tr>
     <td> 005 </td>
     <td>
-      <a href="#Charmeleon" title="Charmeleon">Charmeleon</a>
+      <a id="Charmeleon" title="Charmeleon">Charmeleon</a>
     </td>
     <td> Fire
       <br />
@@ -4580,7 +4581,7 @@ published: true
   <tr>
     <td> 006 </td>
     <td>
-      <a href="#Charizard" title="Charizard">Charizard</a>
+      <a id="Charizard" title="Charizard">Charizard</a>
     </td>
     <td> Fire
       <br />Flying
@@ -4593,7 +4594,7 @@ published: true
   <tr>
     <td> 037 </td>
     <td>
-      <a href="#Vulpix" title="Vulpix">Vulpix</a>
+      <a id="Vulpix" title="Vulpix">Vulpix</a>
     </td>
     <td> Fire
       <br />
@@ -4608,7 +4609,7 @@ published: true
   <tr>
     <td> 038 </td>
     <td>
-      <a href="#Ninetales" title="Ninetales">Ninetales</a>
+      <a id="Ninetales" title="Ninetales">Ninetales</a>
     </td>
     <td> Fire
       <br />
@@ -4620,7 +4621,7 @@ published: true
   <tr>
     <td> 058 </td>
     <td>
-      <a href="#Growlithe" title="Growlithe">Growlithe</a>
+      <a id="Growlithe" title="Growlithe">Growlithe</a>
     </td>
     <td> Fire
       <br />
@@ -4635,7 +4636,7 @@ published: true
   <tr>
     <td> 059 </td>
     <td>
-      <a href="#Arcanine" title="Arcanine">Arcanine</a>
+      <a id="Arcanine" title="Arcanine">Arcanine</a>
     </td>
     <td> Fire
       <br />
@@ -4647,7 +4648,7 @@ published: true
   <tr>
     <td> 077 </td>
     <td>
-      <a href="#Ponyta" title="Ponyta">Ponyta</a>
+      <a id="Ponyta" title="Ponyta">Ponyta</a>
     </td>
     <td> Fire
       <br />
@@ -4664,7 +4665,7 @@ published: true
   <tr>
     <td> 078 </td>
     <td>
-      <a href="#Rapidash" title="Rapidash">Rapidash</a>
+      <a id="Rapidash" title="Rapidash">Rapidash</a>
     </td>
     <td> Fire
       <br />
@@ -4676,7 +4677,7 @@ published: true
   <tr>
     <td> 126 </td>
     <td>
-      <a href="#Magmar" title="Magmar">Magmar</a>
+      <a id="Magmar" title="Magmar">Magmar</a>
     </td>
     <td> Fire
       <br />
@@ -4691,7 +4692,7 @@ published: true
   <tr>
     <td> 136 </td>
     <td>
-      <a href="#Flareon" title="Flareon">Flareon</a>
+      <a id="Flareon" title="Flareon">Flareon</a>
     </td>
     <td> Fire
       <br />
@@ -4703,7 +4704,7 @@ published: true
   <tr>
     <td> 146 </td>
     <td>
-      <a href="#Moltres" title="Moltres">Moltres</a>
+      <a id="Moltres" title="Moltres">Moltres</a>
     </td>
     <td> Fire
       <br />Flying
@@ -4716,7 +4717,7 @@ published: true
   </tr>
 </table>
 <h3 id="Water" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/11/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Water</h3>
+  Water</h3>
 <table style="width: 468px">
   <tr>
     <th style="background-color: #6890f0"> Pokédex
@@ -4734,7 +4735,7 @@ published: true
   <tr>
     <td> 007 </td>
     <td>
-      <a href="#Squirtle" title="Squirtle">Squirtle</a>
+      <a id="Squirtle" title="Squirtle">Squirtle</a>
     </td>
     <td> Water
       <br />
@@ -4747,7 +4748,7 @@ published: true
   <tr>
     <td> 008 </td>
     <td>
-      <a href="#Wartortle" title="Wartortle">Wartortle</a>
+      <a id="Wartortle" title="Wartortle">Wartortle</a>
     </td>
     <td> Water
       <br />
@@ -4759,7 +4760,7 @@ published: true
   <tr>
     <td> 009 </td>
     <td>
-      <a href="#Blastoise" title="Blastoise">Blastoise</a>
+      <a id="Blastoise" title="Blastoise">Blastoise</a>
     </td>
     <td> Water
       <br />
@@ -4771,7 +4772,7 @@ published: true
   <tr>
     <td> 054 </td>
     <td>
-      <a href="#Psyduck" title="Psyduck">Psyduck</a>
+      <a id="Psyduck" title="Psyduck">Psyduck</a>
     </td>
     <td> Water
       <br />
@@ -4786,7 +4787,7 @@ published: true
   <tr>
     <td> 055 </td>
     <td>
-      <a href="#Golduck" title="Golduck">Golduck</a>
+      <a id="Golduck" title="Golduck">Golduck</a>
     </td>
     <td> Water
       <br />
@@ -4798,7 +4799,7 @@ published: true
   <tr>
     <td> 060 </td>
     <td>
-      <a href="#Poliwag" title="Poliwag">Poliwag</a>
+      <a id="Poliwag" title="Poliwag">Poliwag</a>
     </td>
     <td> Water
       <br />
@@ -4813,7 +4814,7 @@ published: true
   <tr>
     <td> 061 </td>
     <td>
-      <a href="#Poliwhirl" title="Poliwhirl">Poliwhirl</a>
+      <a id="Poliwhirl" title="Poliwhirl">Poliwhirl</a>
     </td>
     <td> Water
       <br />
@@ -4825,7 +4826,7 @@ published: true
   <tr>
     <td> 062 </td>
     <td>
-      <a href="#Poliwrath" title="Poliwrath">Poliwrath</a>
+      <a id="Poliwrath" title="Poliwrath">Poliwrath</a>
     </td>
     <td> Water
       <br />Fighting
@@ -4838,7 +4839,7 @@ published: true
   <tr>
     <td> 072 </td>
     <td>
-      <a href="#Tentacool" title="Tentacool">Tentacool</a>
+      <a id="Tentacool" title="Tentacool">Tentacool</a>
     </td>
     <td> Water
       <br />Poison
@@ -4854,7 +4855,7 @@ published: true
   <tr>
     <td> 073 </td>
     <td>
-      <a href="#Tentacruel" title="Tentacruel">Tentacruel</a>
+      <a id="Tentacruel" title="Tentacruel">Tentacruel</a>
     </td>
     <td> Water
       <br />Poison
@@ -4867,7 +4868,7 @@ published: true
   <tr>
     <td> 079 </td>
     <td>
-      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a>
+      <a id="Slowpoke" title="Slowpoke">Slowpoke</a>
     </td>
     <td> Water
       <br />Psychic
@@ -4885,7 +4886,7 @@ published: true
   <tr>
     <td> 080 </td>
     <td>
-      <a href="#Slowbro" title="Slowbro">Slowbro</a>
+      <a id="Slowbro" title="Slowbro">Slowbro</a>
     </td>
     <td> Water
       <br />Psychic
@@ -4898,7 +4899,7 @@ published: true
   <tr>
     <td> 086 </td>
     <td>
-      <a href="#Seel" title="Seel">Seel</a>
+      <a id="Seel" title="Seel">Seel</a>
     </td>
     <td> Water
       <br />
@@ -4913,7 +4914,7 @@ published: true
   <tr>
     <td> 087 </td>
     <td>
-      <a href="#Dewgong" title="Dewgong">Dewgong</a>
+      <a id="Dewgong" title="Dewgong">Dewgong</a>
     </td>
     <td> Water
       <br />Ice
@@ -4928,7 +4929,7 @@ published: true
       <br />
     </td>
     <td>
-      <a href="#Shellder" title="Shellder">Shellder</a>
+      <a id="Shellder" title="Shellder">Shellder</a>
     </td>
     <td> Water
       <br />
@@ -4945,7 +4946,7 @@ published: true
   <tr>
     <td> 091 </td>
     <td>
-      <a href="#Cloyster" title="Cloyster">Cloyster</a>
+      <a id="Cloyster" title="Cloyster">Cloyster</a>
     </td>
     <td> Water
       <br />Ice
@@ -4958,7 +4959,7 @@ published: true
   <tr>
     <td> 098 </td>
     <td>
-      <a href="#Krabby" title="Krabby">Krabby</a>
+      <a id="Krabby" title="Krabby">Krabby</a>
     </td>
     <td> Water
       <br />
@@ -4973,7 +4974,7 @@ published: true
   <tr>
     <td> 099 </td>
     <td>
-      <a href="#Kingler" title="Kingler">Kingler</a>
+      <a id="Kingler" title="Kingler">Kingler</a>
     </td>
     <td> Water
       <br />
@@ -4985,7 +4986,7 @@ published: true
   <tr>
     <td> 116 </td>
     <td>
-      <a href="#Horsea" title="Horsea">Horsea</a>
+      <a id="Horsea" title="Horsea">Horsea</a>
     </td>
     <td> Water
       <br />
@@ -5000,7 +5001,7 @@ published: true
   <tr>
     <td> 117 </td>
     <td>
-      <a href="#Seadra" title="Seadra">Seadra</a>
+      <a id="Seadra" title="Seadra">Seadra</a>
     </td>
     <td> Water
       <br />
@@ -5012,7 +5013,7 @@ published: true
   <tr>
     <td> 118 </td>
     <td>
-      <a href="#Goldeen" title="Goldeen">Goldeen</a>
+      <a id="Goldeen" title="Goldeen">Goldeen</a>
     </td>
     <td> Water
       <br />
@@ -5027,7 +5028,7 @@ published: true
   <tr>
     <td> 119 </td>
     <td>
-      <a href="#Seaking" title="Seaking">Seaking</a>
+      <a id="Seaking" title="Seaking">Seaking</a>
     </td>
     <td> Water
       <br />
@@ -5039,7 +5040,7 @@ published: true
   <tr>
     <td> 120 </td>
     <td>
-      <a href="#Staryu" title="Staryu">Staryu</a>
+      <a id="Staryu" title="Staryu">Staryu</a>
     </td>
     <td> Water
       <br />
@@ -5054,7 +5055,7 @@ published: true
   <tr>
     <td> 121 </td>
     <td>
-      <a href="#Starmie" title="Starmie">Starmie</a>
+      <a id="Starmie" title="Starmie">Starmie</a>
     </td>
     <td> Water
       <br />Psychic
@@ -5067,7 +5068,7 @@ published: true
   <tr>
     <td> 129 </td>
     <td>
-      <a href="#Magikarp" title="Magikarp">Magikarp</a>
+      <a id="Magikarp" title="Magikarp">Magikarp</a>
     </td>
     <td> Water
       <br />
@@ -5080,7 +5081,7 @@ published: true
   <tr>
     <td> 130 </td>
     <td>
-      <a href="#Gyarados" title="Gyarados">Gyarados</a>
+      <a id="Gyarados" title="Gyarados">Gyarados</a>
     </td>
     <td> Water
       <br />Flying
@@ -5093,7 +5094,7 @@ published: true
   <tr>
     <td> 131 </td>
     <td>
-      <a href="#Lapras" title="Lapras">Lapras</a>
+      <a id="Lapras" title="Lapras">Lapras</a>
     </td>
     <td> Water
       <br />Ice
@@ -5109,7 +5110,7 @@ published: true
   <tr>
     <td> 134 </td>
     <td>
-      <a href="#Vaporeon" title="Vaporeon">Vaporeon</a>
+      <a id="Vaporeon" title="Vaporeon">Vaporeon</a>
     </td>
     <td> Water
       <br />
@@ -5121,7 +5122,7 @@ published: true
   <tr>
     <td> 138 </td>
     <td>
-      <a href="#Omanyte" title="Omanyte">Omanyte</a>
+      <a id="Omanyte" title="Omanyte">Omanyte</a>
     </td>
     <td> Water
       <br />Rock
@@ -5139,7 +5140,7 @@ published: true
   <tr>
     <td> 139 </td>
     <td>
-      <a href="#Omastar" title="Omastar">Omastar</a>
+      <a id="Omastar" title="Omastar">Omastar</a>
     </td>
     <td> Water
       <br />Rock
@@ -5152,7 +5153,7 @@ published: true
   <tr>
     <td> 140 </td>
     <td>
-      <a href="#Kabuto" title="Kabuto">Kabuto</a>
+      <a id="Kabuto" title="Kabuto">Kabuto</a>
     </td>
     <td> Water
       <br />Rock
@@ -5170,7 +5171,7 @@ published: true
   <tr>
     <td> 141 </td>
     <td>
-      <a href="#Kabutops" title="Kabutops">Kabutops</a>
+      <a id="Kabutops" title="Kabutops">Kabutops</a>
     </td>
     <td> Water
       <br />Rock
@@ -5182,7 +5183,7 @@ published: true
   </tr>
 </table>
 <h3 id="Grass" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/12/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Grass
+  Grass
   <br />
 </h3>
 <span class="ad-placement"></span>
@@ -5205,7 +5206,7 @@ published: true
   <tr>
     <td> 001 </td>
     <td>
-      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a>
+      <a id="Bulbasaur" title="Bulbasaur">Bulbasaur</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5223,7 +5224,7 @@ published: true
   <tr>
     <td> 002 </td>
     <td>
-      <a href="#Ivysaur" title="Ivysaur">Ivysaur</a>
+      <a id="Ivysaur" title="Ivysaur">Ivysaur</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5236,7 +5237,7 @@ published: true
   <tr>
     <td> 003 </td>
     <td>
-      <a href="#Venusaur" title="Venusaur">Venusaur</a>
+      <a id="Venusaur" title="Venusaur">Venusaur</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5249,7 +5250,7 @@ published: true
   <tr>
     <td> 043 </td>
     <td>
-      <a href="#Oddish" title="Oddish">Oddish</a>
+      <a id="Oddish" title="Oddish">Oddish</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5265,7 +5266,7 @@ published: true
   <tr>
     <td> 044 </td>
     <td>
-      <a href="#Gloom" title="Gloom">Gloom</a>
+      <a id="Gloom" title="Gloom">Gloom</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5278,7 +5279,7 @@ published: true
   <tr>
     <td> 045 </td>
     <td>
-      <a href="#Vileplume" title="Vileplume">Vileplume</a>
+      <a id="Vileplume" title="Vileplume">Vileplume</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5291,7 +5292,7 @@ published: true
   <tr>
     <td> 046 </td>
     <td>
-      <a href="#Paras" title="Paras">Paras</a>
+      <a id="Paras" title="Paras">Paras</a>
     </td>
     <td> Grass
       <br />Bug
@@ -5309,7 +5310,7 @@ published: true
   <tr>
     <td> 047 </td>
     <td>
-      <a href="#Parasect" title="Parasect">Parasect</a>
+      <a id="Parasect" title="Parasect">Parasect</a>
     </td>
     <td> Grass
       <br />Bug
@@ -5322,7 +5323,7 @@ published: true
   <tr>
     <td> 069 </td>
     <td>
-      <a href="#Bellsprout" title="Bellsprout">Bellsprout</a>
+      <a id="Bellsprout" title="Bellsprout">Bellsprout</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5336,7 +5337,7 @@ published: true
   <tr>
     <td> 070 </td>
     <td>
-      <a href="#Weepinbell" title="Weepinbell">Weepinbell</a>
+      <a id="Weepinbell" title="Weepinbell">Weepinbell</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5349,7 +5350,7 @@ published: true
   <tr>
     <td> 071 </td>
     <td>
-      <a href="#Victreebel" title="Victreebel">Victreebel</a>
+      <a id="Victreebel" title="Victreebel">Victreebel</a>
     </td>
     <td> Grass
       <br />Poison
@@ -5362,7 +5363,7 @@ published: true
   <tr>
     <td> 102 </td>
     <td>
-      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a>
+      <a id="Exeggcute" title="Exeggcute">Exeggcute</a>
     </td>
     <td> Grass
       <br />Psychic
@@ -5380,7 +5381,7 @@ published: true
   <tr>
     <td> 103 </td>
     <td>
-      <a href="#Exeggutor" title="Exeggutor">Exeggutor</a>
+      <a id="Exeggutor" title="Exeggutor">Exeggutor</a>
     </td>
     <td> Grass
       <br />Psychic
@@ -5393,7 +5394,7 @@ published: true
   <tr>
     <td> 114 </td>
     <td>
-      <a href="#Tangela" title="Tangela">Tangela</a>
+      <a id="Tangela" title="Tangela">Tangela</a>
     </td>
     <td> Grass
       <br />
@@ -5407,7 +5408,7 @@ published: true
   </tr>
 </table>
 <h3 id="Electric" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/13/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Electric
+  Electric
   <br />
 </h3>
 <table style="width: 468px">
@@ -5427,7 +5428,7 @@ published: true
   <tr>
     <td> 025 </td>
     <td>
-      <a href="#Pikachu" title="Pikachu">Pikachu</a>
+      <a id="Pikachu" title="Pikachu">Pikachu</a>
     </td>
     <td> Electric
       <br />
@@ -5440,7 +5441,7 @@ published: true
   <tr>
     <td> 026 </td>
     <td>
-      <a href="#Raichu" title="Raichu">Raichu</a>
+      <a id="Raichu" title="Raichu">Raichu</a>
     </td>
     <td> Electric
       <br />
@@ -5452,7 +5453,7 @@ published: true
   <tr>
     <td> 081 </td>
     <td>
-      <a href="#Magnemite" title="Magnemite">Magnemite</a>
+      <a id="Magnemite" title="Magnemite">Magnemite</a>
     </td>
     <td> Electric
       <br />Steel
@@ -5468,7 +5469,7 @@ published: true
   <tr>
     <td> 082 </td>
     <td>
-      <a href="#Magneton" title="Magneton">Magneton</a>
+      <a id="Magneton" title="Magneton">Magneton</a>
     </td>
     <td> Electric
       <br />Steel
@@ -5481,7 +5482,7 @@ published: true
   <tr>
     <td> 100 </td>
     <td>
-      <a href="#Voltorb" title="Voltorb">Voltorb</a>
+      <a id="Voltorb" title="Voltorb">Voltorb</a>
     </td>
     <td> Electric
       <br />
@@ -5496,7 +5497,7 @@ published: true
   <tr>
     <td> 101 </td>
     <td>
-      <a href="#Electrode" title="Electrode">Electrode</a>
+      <a id="Electrode" title="Electrode">Electrode</a>
     </td>
     <td> Electric </td>
     <td>
@@ -5506,7 +5507,7 @@ published: true
   <tr>
     <td> 125 </td>
     <td>
-      <a href="#Electabuzz" title="Electabuzz">Electabuzz</a>
+      <a id="Electabuzz" title="Electabuzz">Electabuzz</a>
     </td>
     <td> Electric
       <br />
@@ -5519,7 +5520,7 @@ published: true
   <tr>
     <td> 135 </td>
     <td>
-      <a href="#Jolteon" title="Jolteon">Jolteon</a>
+      <a id="Jolteon" title="Jolteon">Jolteon</a>
     </td>
     <td> Electric
       <br />
@@ -5531,7 +5532,7 @@ published: true
   <tr>
     <td> 145 </td>
     <td>
-      <a href="#Zapdos" title="Zapdos">Zapdos</a>
+      <a id="Zapdos" title="Zapdos">Zapdos</a>
     </td>
     <td> Electric
       <br />Flying
@@ -5544,7 +5545,7 @@ published: true
   </tr>
 </table>
 <h3 id="Psychic" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/14/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Psychic</h3>
+  Psychic</h3>
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
@@ -5563,7 +5564,7 @@ published: true
   <tr>
     <td> 063 </td>
     <td>
-      <a href="#Abra" title="Abra">Abra</a>
+      <a id="Abra" title="Abra">Abra</a>
     </td>
     <td> Psychic
       <br />
@@ -5578,7 +5579,7 @@ published: true
   <tr>
     <td> 064 </td>
     <td>
-      <a href="#Kadabra" title="Kadabra">Kadabra</a>
+      <a id="Kadabra" title="Kadabra">Kadabra</a>
     </td>
     <td> Psychic
       <br />
@@ -5590,7 +5591,7 @@ published: true
   <tr>
     <td> 065 </td>
     <td>
-      <a href="#Alakazam" title="Alakazam">Alakazam</a>
+      <a id="Alakazam" title="Alakazam">Alakazam</a>
     </td>
     <td> Psychic
       <br />
@@ -5602,7 +5603,7 @@ published: true
   <tr>
     <td> 079 </td>
     <td>
-      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a>
+      <a id="Slowpoke" title="Slowpoke">Slowpoke</a>
     </td>
     <td> Psychic
       <br />Water
@@ -5618,7 +5619,7 @@ published: true
   <tr>
     <td> 080 </td>
     <td>
-      <a href="#Slowbro" title="Slowbro">Slowbro</a>
+      <a id="Slowbro" title="Slowbro">Slowbro</a>
     </td>
     <td> Psychic
       <br />Water
@@ -5631,7 +5632,7 @@ published: true
   <tr>
     <td> 096 </td>
     <td>
-      <a href="#Drowzee" title="Drowzee">Drowzee</a>
+      <a id="Drowzee" title="Drowzee">Drowzee</a>
     </td>
     <td> Psychic
       <br />
@@ -5646,7 +5647,7 @@ published: true
   <tr>
     <td> 097 </td>
     <td>
-      <a href="#Hypno" title="Hypno">Hypno</a>
+      <a id="Hypno" title="Hypno">Hypno</a>
     </td>
     <td> Psychic
       <br />
@@ -5658,7 +5659,7 @@ published: true
   <tr>
     <td> 102 </td>
     <td>
-      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a>
+      <a id="Exeggcute" title="Exeggcute">Exeggcute</a>
     </td>
     <td> Psychic
       <br />Grass
@@ -5676,7 +5677,7 @@ published: true
   <tr>
     <td> 103 </td>
     <td>
-      <a href="#Exeggutor" title="Exeggutor">Exeggutor</a>
+      <a id="Exeggutor" title="Exeggutor">Exeggutor</a>
     </td>
     <td> Psychic
       <br />Grass
@@ -5689,7 +5690,7 @@ published: true
   <tr>
     <td> 121 </td>
     <td>
-      <a href="#Starmie" title="Starmie">Starmie</a>
+      <a id="Starmie" title="Starmie">Starmie</a>
     </td>
     <td> Psychic
       <br />Water
@@ -5702,7 +5703,7 @@ published: true
   <tr>
     <td> 122 </td>
     <td>
-      <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a>
+      <a id="Mr._Mime" title="Mr. Mime">Mr. Mime</a>
     </td>
     <td> Psychic
       <br />Fairy </td>
@@ -5714,7 +5715,7 @@ published: true
   <tr>
     <td> 124 </td>
     <td>
-      <a href="#Jynx" title="Jynx">Jynx</a>
+      <a id="Jynx" title="Jynx">Jynx</a>
     </td>
     <td> Psychic
       <br />Ice
@@ -5730,7 +5731,7 @@ published: true
   <tr>
     <td> 150 </td>
     <td>
-      <a href="#Mewtwo" title="Mewtwo">Mewtwo</a>
+      <a id="Mewtwo" title="Mewtwo">Mewtwo</a>
     </td>
     <td> Psychic
       <br />
@@ -5743,7 +5744,7 @@ published: true
   <tr>
     <td> 151 </td>
     <td>
-      <a href="#Mew" title="Mew">Mew</a>
+      <a id="Mew" title="Mew">Mew</a>
     </td>
     <td> Psychic
       <br />
@@ -5755,7 +5756,7 @@ published: true
   </tr>
 </table>
 <h3 id="Ice" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/15/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Ice</h3>
+  Ice</h3>
 <table style="width: 468px">
   <tr>
     <th> Pokédex
@@ -5773,7 +5774,7 @@ published: true
   <tr>
     <td> 087 </td>
     <td>
-      <a href="#Dewgong" title="Dewgong">Dewgong</a>
+      <a id="Dewgong" title="Dewgong">Dewgong</a>
     </td>
     <td> Ice
       <br />Water
@@ -5786,7 +5787,7 @@ published: true
   <tr>
     <td> 091 </td>
     <td>
-      <a href="#Cloyster" title="Cloyster">Cloyster</a>
+      <a id="Cloyster" title="Cloyster">Cloyster</a>
     </td>
     <td> Ice
       <br />Water
@@ -5799,7 +5800,7 @@ published: true
   <tr>
     <td> 124 </td>
     <td>
-      <a href="#Jynx" title="Jynx">Jynx</a>
+      <a id="Jynx" title="Jynx">Jynx</a>
     </td>
     <td> Ice
       <br />Psychic
@@ -5815,7 +5816,7 @@ published: true
   <tr>
     <td> 131 </td>
     <td>
-      <a href="#Lapras" title="Lapras">Lapras</a>
+      <a id="Lapras" title="Lapras">Lapras</a>
     </td>
     <td> Ice
       <br />Water
@@ -5831,7 +5832,7 @@ published: true
   <tr>
     <td> 144 </td>
     <td>
-      <a href="#Articuno" title="Articuno">Articuno</a>
+      <a id="Articuno" title="Articuno">Articuno</a>
     </td>
     <td> Ice
       <br />Flying
@@ -5844,7 +5845,7 @@ published: true
   </tr>
 </table>
 <h3 id="Dragon" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/16/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Dragon</h3>
+  Dragon</h3>
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
@@ -5863,7 +5864,7 @@ published: true
   <tr>
     <td> 147 </td>
     <td>
-      <a href="#Dratini" title="Dratini">Dratini</a>
+      <a id="Dratini" title="Dratini">Dratini</a>
     </td>
     <td> Dragon
       <br />
@@ -5876,7 +5877,7 @@ published: true
   <tr>
     <td> 148 </td>
     <td>
-      <a href="#Dragonair" title="Dragonair">Dragonair</a>
+      <a id="Dragonair" title="Dragonair">Dragonair</a>
     </td>
     <td> Dragon
       <br />
@@ -5888,7 +5889,7 @@ published: true
   <tr>
     <td> 149 </td>
     <td>
-      <a href="#Dragonite" title="Dragonite">Dragonite</a>
+      <a id="Dragonite" title="Dragonite">Dragonite</a>
     </td>
     <td> Dragon
       <br />Flying
@@ -5900,7 +5901,7 @@ published: true
   </tr>
 </table>
 <h3 id="Steel" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/17/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Steel</h3>
+  Steel</h3>
 <table style="width: 468px">
   <tr>
     <th> Pokédex
@@ -5920,7 +5921,7 @@ published: true
   <tr>
     <td> 081 </td>
     <td>
-      <a href="#Magnemite" title="Magnemite">Magnemite</a>
+      <a id="Magnemite" title="Magnemite">Magnemite</a>
     </td>
     <td> Steel
       <br />Electric
@@ -5936,7 +5937,7 @@ published: true
   <tr>
     <td> 082 </td>
     <td>
-      <a href="#Magneton" title="Magneton">Magneton</a>
+      <a id="Magneton" title="Magneton">Magneton</a>
     </td>
     <td> Steel
       <br />Electric
@@ -5948,7 +5949,7 @@ published: true
   </tr>
 </table>
 <h3 id="Fairy" class="gh-sectionHeader">
-  <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/18/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Fairy
+  Fairy
   <br />
 </h3>
 <span class="ad-placement"></span>
@@ -5969,7 +5970,7 @@ published: true
   <tr>
     <td> 035 </td>
     <td>
-      <a href="#Clefairy" title="Clefairy">Clefairy</a>
+      <a id="Clefairy" title="Clefairy">Clefairy</a>
     </td>
     <td> Fairy </td>
     <td>
@@ -5982,14 +5983,14 @@ published: true
   <tr>
     <td> 036 </td>
     <td>
-      <a href="#Clefable" title="Clefable">Clefable</a>
+      <a id="Clefable" title="Clefable">Clefable</a>
     </td>
     <td> Fairy </td>
   </tr>
   <tr>
     <td> 039 </td>
     <td>
-      <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a>
+      <a id="Jigglypuff" title="Jigglypuff">Jigglypuff</a>
     </td>
     <td> Normal
       <br />Fairy </td>
@@ -6003,7 +6004,7 @@ published: true
   <tr>
     <td> 040 </td>
     <td>
-      <a href="#Wigglytuff" title="Wigglytuff">Wigglytuff</a>
+      <a id="Wigglytuff" title="Wigglytuff">Wigglytuff</a>
     </td>
     <td> Normal
       <br />Fairy </td>
@@ -6011,7 +6012,7 @@ published: true
   <tr>
     <td> 122 </td>
     <td>
-      <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a>
+      <a id="Mr._Mime" title="Mr. Mime">Mr. Mime</a>
     </td>
     <td> Psychic
       <br />Fairy </td>
