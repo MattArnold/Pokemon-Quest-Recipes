@@ -803,3 +803,1837 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+# Grey Porridge
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Fossil</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#NidoranF" title="NidoranF" class="mw-redirect">Nidoran♀</a> - 25% Chance
+      <br />
+      <a href="#Oddish" title="Oddish">Oddish</a> - 25% Chance
+      <br />
+      <a href="#Geodude" title="Geodude">Geodude</a> - 25% Chance
+      <br />
+      <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a> - 25% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Fossil</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Clefairy" title="Clefairy">Clefairy</a> - 12.4% Chance
+      <br />
+      <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a> - 12.4% Chance
+      <br />
+      <a href="#Zubat" title="Zubat">Zubat</a> - 12.4% Chance
+      <br />
+      <a href="#Magnemite" title="Magnemite">Magnemite</a> - 12.4% Chance
+      <br />
+      <a href="#Seel" title="Seel">Seel</a> - 12.4% Chance
+      <br />
+      <a href="#Shellder" title="Shellder">Shellder</a> - 12.4% Chance
+      <br />
+      <a href="#Onix" title="Onix">Onix</a> - 12.4% Chance
+      <br />
+      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a> - 12.4% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(2) Balm Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(3) Balm Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Clefairy" title="Clefairy">Clefairy</a> - 10.3% Chance
+      <br />
+      <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a> - 10.3% Chance
+      <br />
+      <a href="#Zubat" title="Zubat">Zubat</a> - 10.3% Chance
+      <br />
+      <a href="#Venonat" title="Venonat">Venonat</a> - 5.1% Chance
+      <br />
+      <a href="#Magnemite" title="Magnemite">Magnemite</a> - 10.3% Chance
+      <br />
+      <a href="#Seel" title="Seel">Seel</a> - 10.3% Chance
+      <br />
+      <a href="#Shellder" title="Shellder">Shellder</a> - 10.3% Chance
+      <br />
+      <a href="#Onix" title="Onix">Onix</a> - 10.3% Chance
+      <br />
+      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a> - 10.3% Chance
+      <br />
+      <a href="#Cubone" title="Cubone">Cubone</a> - 10.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Balm Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(4) Balm Mushroom</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Venonat" title="Venonat">Venonat</a> - 28.6% Chance
+      <br />
+      <a href="#Gastly" title="Gastly">Gastly</a> - 2.9% Chance
+      <br />
+      <a href="#Cubone" title="Cubone">Cubone</a> - 57.1% Chance
+      <br />
+      <a href="#Chansey" title="Chansey">Chansey</a> - 2.9% Chance
+      <br />
+      <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a> - 2.9% Chance
+      <br />
+      <a href="#Tauros" title="Tauros">Tauros</a> - 2.9% Chance
+      <br />
+      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a> - 2.9% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Mouth-Watering Dip
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Bluk Berry</li>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Psyduck" title="Psyduck">Psyduck</a> - 16.7% Chance
+      <br />
+      <a href="#Poliwag" title="Poliwag">Poliwag</a> - 16.7% Chance
+      <br />
+      <a href="#Tentacool" title="Tentacool">Tentacool</a> - 16.7% Chance
+      <br />
+      <a href="#Krabby" title="Krabby">Krabby</a> - 16.7% Chance
+      <br />
+      <a href="#Goldeen" title="Goldeen">Goldeen</a> - 16.7% Chance
+      <br />
+      <a href="#Staryu" title="Staryu">Staryu</a> - 16.7% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Icy Rock</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a> - 24.5% Chance
+      <br />
+      <a href="#Seel" title="Seel">Seel</a> - 24.5% Chance
+      <br />
+      <a href="#Shellder" title="Shellder">Shellder</a> - 24.5% Chance
+      <br />
+      <a href="#Horsea" title="Horsea">Horsea</a> - 24.5% Chance
+      <br />
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 1.2% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 1.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Bluk Berry</li>
+        <li>(2) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Icy Rock</li>
+        <li>(2) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Squirtle" title="Squirtle">Squirtle</a> - 5.8% Chance
+      <br />
+      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a> - 14.6% Chance
+      <br />
+      <a href="#Seel" title="Seel">Seel</a> - 14.6% Chance
+      <br />
+      <a href="#Shellder" title="Shellder">Shellder</a> - 14.6% Chance
+      <br />
+      <a href="#Horsea" title="Horsea">Horsea</a> - 14.6% Chance
+      <br />
+      <a href="#Magikarp" title="Magikarp">Magikarp</a> - 5.8% Chance
+      <br />
+      <a href="#Lapras" title="Lapras">Lapras</a> - 3.7% Chance
+      <br />
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 13.5% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 13.5% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Plain Crepe
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Bluk Berry</li>
+        <li>(2) Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Pidgey" title="Pidgey">Pidgey</a> - 25% Chance
+      <br />
+      <a href="#Rattata" title="Rattata">Rattata</a> - 25% Chance
+      <br />
+      <a href="#Spearow" title="Spearow">Spearow</a> - 25% Chance
+      <br />
+      <a href="#Meowth" title="Meowth">Meowth</a> - 25% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(2) Fossil</li>
+        <li>(1) Honey</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a> - 24.5% Chance
+      <br />
+      <a href="#Doduo" title="Doduo">Doduo</a> - 24.5% Chance
+      <br />
+      <a href="#Lickitung" title="Lickitung">Lickitung</a> - 24.5% Chance
+      <br />
+      <a href="#Porygon" title="Porygon">Porygon</a> - 24.5% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Fossil</li>
+        <li>(1) Honey</li>
+        <li>(1) Balm Mushroom </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(2) Fossil</li>
+        <li>(2) Honey</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Honey</li>
+        <li>(2) Balm Mushroom </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Fossil</li>
+        <li>(2) Honey</li>
+        <li>(1) Balm Mushroom </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(3) Honey</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a> - 18.1% Chance
+      <br />
+      <a href="#Farfetch%27d">Farfetch'd</a> - 8.1% Chance
+      <br />
+      <a href="#Doduo" title="Doduo">Doduo</a> - 18.1% Chance
+      <br />
+      <a href="#Lickitung" title="Lickitung">Lickitung</a> - 18.1% Chance
+      <br />
+      <a href="#Chansey" title="Chansey">Chansey</a> - 1.1% Chance
+      <br />
+      <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a> - 9% Chance
+      <br />
+      <a href="#Tauros" title="Tauros">Tauros</a> - 1.1% Chance
+      <br />
+      <a href="#Ditto" title="Ditto">Ditto</a> - 1.1% Chance
+      <br />
+      <a href="#Eevee" title="Eevee">Eevee</a> - 6.3% Chance
+      <br />
+      <a href="#Porygon" title="Porygon">Porygon</a> - 18.1% Chance
+      <br />
+      <a href="#Snorlax" title="Snorlax">Snorlax</a> - 1.1% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(3) Honey</li>
+        <li>(1) Balm Mushroom </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(2) Honey</li>
+        <li>(2) Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Honey</li>
+        <li>(2) Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Farfetch%27d">Farfetch'd</a> - 29.2% Chance
+      <br />
+      <a href="#Chansey" title="Chansey">Chansey</a> - 3.9% Chance
+      <br />
+      <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a> - 32.5% Chance
+      <br />
+      <a href="#Tauros" title="Tauros">Tauros</a> - 3.9% Chance
+      <br />
+      <a href="#Ditto" title="Ditto">Ditto</a> - 3.9% Chance
+      <br />
+      <a href="#Eevee" title="Eevee">Eevee</a> - 22.7% Chance
+      <br />
+      <a href="#Snorlax" title="Snorlax">Snorlax</a> - 3.9% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Sludge Soup
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Ekans" title="Ekans">Ekans</a> - 24.5% Chance
+      <br />
+      <a href="#Zubat" title="Zubat">Zubat</a> - 24.5% Chance
+      <br />
+      <a href="#Grimer" title="Grimer">Grimer</a> - 24.5% Chance
+      <br />
+      <a href="#Koffing" title="Koffing">Koffing</a> - 24.5% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(2) Balm Mushroom</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil </li>
+      </ul>
+      <p>--- </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(2) Balm Mushroom</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom </li>
+      </ul>
+      <p>--- </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Apricorn
+          <b>or</b> Bluk Berry</li>
+        <li>(3) Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 14.4% Chance
+      <br />
+      <a href="#Ekans" title="Ekans">Ekans</a> - 18% Chance
+      <br />
+      <a href="#Zubat" title="Zubat">Zubat</a> - 18% Chance
+      <br />
+      <a href="#Venonat" title="Venonat">Venonat</a> - 9% Chance
+      <br />
+      <a href="#Grimer" title="Grimer">Grimer</a> - 18% Chance
+      <br />
+      <a href="#Gastly" title="Gastly">Gastly</a> - 4.5% Chance
+      <br />
+      <a href="#Koffing" title="Koffing">Koffing</a> - 18% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(3) Balm Mushroom</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(3) Balm Mushroom</li>
+        <li>(1) Rainbow Matter</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 51.6% Chance
+      <br />
+      <a href="#Venonat" title="Venonat">Venonat</a> - 32.3% Chance
+      <br />
+      <a href="#Gastly" title="Gastly">Gastly</a> - 16.1% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Mud Pie
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(2) Fossil</li>
+        <li>(2) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Sandshrew" title="Sandshrew">Sandshrew</a> - 33.3% Chance
+      <br />
+      <a href="#Geodude" title="Geodude">Geodude</a> - 33.3% Chance
+      <br />
+      <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a> - 33.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(2) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Balm Mushroom
+          <b>or</b> Honey
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Icy Rock</li>
+        <li>(2) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Diglett" title="Diglett">Diglett</a> - 48.8% Chance
+      <br />
+      <a href="#Onix" title="Onix">Onix</a> - 48.8% Chance
+      <br />
+      <a href="#Cubone" title="Cubone">Cubone</a> - 2.4% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Fossil</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(2) Fossil</li>
+        <li>(1) Big Root</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(2) Fossil</li>
+        <li>(1) Big Root</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(2) Fossil</li>
+        <li>(1) Honey</li>
+        <li>(1) Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(2) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Honey</li>
+        <li>(1) Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Big Root</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Honey</li>
+        <li>(1) Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Icy Rock</li>
+        <li>(2) Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(1) Big Root</li>
+        <li>(1) Honey</li>
+        <li>(1) Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(2) Big Root</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(2) Honey</li>
+        <li>(1) Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(2) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Fossil</li>
+        <li>(1) Icy Rock</li>
+        <li>(2) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Diglett" title="Diglett">Diglett</a> - 33.3% Chance
+      <br />
+      <a href="#Onix" title="Onix">Onix</a> - 33.3% Chance
+      <br />
+      <a href="#Cubone" title="Cubone">Cubone</a> - 33.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Big Root</li>
+        <li>(2) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(2) Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(2) Big Root</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Honey</li>
+        <li>(2) Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Icy Rock</li>
+        <li>(3) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Cubone" title="Cubone">Cubone</a> - 100% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Veggie Smoothie
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Apricorn</li>
+        <li>(1) Big Root</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 2% Chance
+      <br />
+      <a href="#Paras" title="Paras">Paras</a> - 48.8% Chance
+      <br />
+      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a> - 48.8% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Apricorn</li>
+        <li>(2) Big Root</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Apricorn</li>
+        <li>(1) Big Root</li>
+        <li>(1) Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Apricorn</li>
+        <li>(2) Big Root</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(3) Big Root</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a> - 26.7% Chance
+      <br />
+      <a href="#Paras" title="Paras">Paras</a> - 33.3% Chance
+      <br />
+      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a> - 33.3% Chance
+      <br />
+      <a href="#Tangela" title="Tangela">Tangela</a> - 6.7% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(3) Big Root</li>
+        <li>(1) Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+</table>
+
+# Honey Nectar
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Apricorn</li>
+        <li>(2) Honey</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td>
+      <a href="#Paras" title="Paras">Paras</a> - 96.4% Chance
+      <br />
+      <a href="#Venonat" title="Venonat">Venonat</a> - 2.4% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(3) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Paras" title="Paras">Paras</a> - 57.5% Chance
+      <br />
+      <a href="#Venonat" title="Venonat">Venonat</a> - 28.7% Chance
+      <br />
+      <a href="#Scyther" title="Scyther">Scyther</a> - 6.9% Chance
+      <br />
+      <a href="#Pinsir" title="Pinsir">Pinsir</a> - 6.9% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(3) Honey</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(3) Honey</li>
+        <li>(1) Rainbow</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Venonat" title="Venonat">Venonat</a> - 67.6% Chance
+      <br />
+      <a href="#Scyther" title="Scyther">Scyther</a> - 16.2% Chance
+      <br />
+      <a href="#Pinsir" title="Pinsir">Pinsir</a> - 16.2% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Brain Food
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Bluk Berry</li>
+        <li>(1) Apricorn</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Abra" title="Abra">Abra</a> - 100% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Apricorn</li>
+        <li>(1) Honey</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a> - 48.8% Chance
+      <br />
+      <a href="#Drowzee" title="Drowzee">Drowzee</a> - 2% Chance
+      <br />
+      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a> - 48.8% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Apricorn</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Honey ---</li>
+      </ul>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Fossil</li>
+        <li>(1) Apricorn</li>
+        <li>(2) Honey</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Bluk Berry</li>
+        <li>(1) Apricorn</li>
+        <li>(1) Icy Rock</li>
+        <li>(2) Honey</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Slowpoke" title="Slowpoke">Slowpoke</a> - 33.3% Chance
+      <br />
+      <a href="#Drowzee" title="Drowzee">Drowzee</a> - 26.7% Chance
+      <br />
+      <a href="#Exeggcute" title="Exeggcute">Exeggcute</a> - 33.3% Chance
+      <br />
+      <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a> - 3.3% Chance
+      <br />
+      <a href="#Jynx" title="Jynx">Jynx</a> - 3.3% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Stone Soup
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(2) Fossil</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Geodude" title="Geodude">Geodude</a> - 50% Chance
+      <br />
+      <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a> - 50% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(2) Fossil</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey</li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(2) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Apricorn</li>
+        <li>(2) Fossil</li>
+        <li>(1) Balm Mushroom</li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Apricorn</li>
+        <li>(1) Fossil</li>
+        <li>(1) Icy Rock</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Onix" title="Onix">Onix</a> - 97.3% Chance
+      <br />
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 1.2% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 1.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(1) Apricorn</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Fossil</li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey</li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Icy Rock</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry
+          <b>or</b> Apricorn</li>
+        <li>(2) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Icy Rock</li>
+        <li>(2) Apricorn
+          <b>or</b> Fossil</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(3) Icy Rock</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Onix" title="Onix">Onix</a> - 64.5% Chance
+      <br />
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 16.1% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 16.1% Chance
+      <br />
+      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a> - 3.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Icy Rock</li>
+        <li>(1) Apricorn
+          <b>or</b> Fossil</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(3) Icy Rock</li>
+        <li>(1) Rainbow Matter</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Omanyte" title="Omanyte">Omanyte</a> - 45.5% Chance
+      <br />
+      <a href="#Kabuto" title="Kabuto">Kabuto</a> - 45.5% Chance
+      <br />
+      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a> - 9.1% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Light-As-Air Casserole
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Fossil</li>
+        <li>(2) Big Root</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td>
+      <a href="#Zubat" title="Zubat">Zubat</a> - 49.2% Chance
+      <br />
+      <a href="#Farfetch%27d">Farfetch'd</a> - 1.1% Chance
+      <br />
+      <a href="#Doduo" title="Doduo">Doduo</a> - 49.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Fossil</li>
+        <li>(2) Big Root</li>
+        <li>(1) Icy Rock</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Zubat" title="Zubat">Zubat</a> - 38.2% Chance
+      <br />
+      <a href="#Farfetch%27d">Farfetch'd</a> - 17.2% Chance
+      <br />
+      <a href="#Doduo" title="Doduo">Doduo</a> - 38.2% Chance
+      <br />
+      <a href="#Scyther" title="Scyther">Scyther</a> - 4.6% Chance
+      <br />
+      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a> - 1.9% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(2) Big Root</li>
+        <li>(2) Icy Rock</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Big Root</li>
+        <li>(3) Icy Rock</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Farfetch%27d">Farfetch'd</a> - 72.6% Chance
+      <br />
+      <a href="#Scyther" title="Scyther">Scyther</a> - 19.4% Chance
+      <br />
+      <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a> - 8.1% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Hot Pot
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Basic </td>
+    <td>
+      <a href="#Vulpix" title="Vulpix">Vulpix</a> - 50% Chance
+      <br />
+      <a href="#Growlithe" title="Growlithe">Growlithe</a> - 50% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn</li>
+        <li>(1) Honey
+          <b>or</b> Icy Rock </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Fossil</li>
+        <li>(1) Honey</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Charmander" title="Charmander">Charmander</a> - 3.8% Chance
+      <br />
+      <a href="#Ponyta" title="Ponyta">Ponyta</a> - 95.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock
+          <b>or</b> Honey </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Fossil</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Big Root
+          <b>or</b> Honey </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Honey</li>
+        <li>(1) Honey
+          <b>or</b> Icy Rock </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Rainbow Matter</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(2) Balm Mushroom</li>
+        <li>(1) Big Root</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Big Root
+          <b>or</b> Honey</li>
+        <li>(1) Honey
+          <b>or</b> Icy Rock </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Rainbow Matter</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Rainbow Matter</li>
+        <li>(1) Honey
+          <b>or</b> Icy Rock </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(1) Mystical Shell</li>
+        <li>(1) Bluk Berry
+          <b>or</b> Apricorn
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Charmander" title="Charmander">Charmander</a> - 40% Chance
+      <br />
+      <a href="#Ponyta" title="Ponyta">Ponyta</a> - 50% Chance
+      <br />
+      <a href="#Magmar" title="Magmar">Magmar</a> - 10% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Big Root</li>
+        <li>(2) Balm Mushroom</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Icy Rock </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Balm Mushroom</li>
+        <li>(1) Rainbow Matter</li>
+        <li>(1) Big Root
+          <b>or</b> Honey
+          <b>or</b> Icy Rock </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(3) Tiny Mushroom</li>
+        <li>(2) Rainbow Matter </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Balm Mushroom</li>
+        <li>(2) Big Root </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Charmander" title="Charmander">Charmander</a> - 80% Chance
+      <br />
+      <a href="#Magmar" title="Magmar">Magmar</a> - 20% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Watt A Risotto
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Apricorn</li>
+        <li>(2) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td>
+      <a href="#Pikachu" title="Pikachu">Pikachu</a> - 3.8% Chance
+      <br />
+      <a href="#Magnemite" title="Magnemite">Magnemite</a> - 95.2% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(2) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Bluk Berry</li>
+        <li>(1) Big Root
+          <b>or</b> Balm Mushroom
+          <br /> </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(3) Honey</li>
+        <li>(1) Tiny Mushroom
+          <b>or</b> Fossil</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td> Electabuzz, Magnemite, Pikachu </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Apricorn</li>
+        <li>(2) Honey</li>
+        <li>(2) Big Root
+          <b>or</b> Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(3) Honey</li>
+        <li>(1) Big Root
+          <b>or</b> Balm Mushroom
+          <b>or</b> Icy Rock
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(1) Fossil</li>
+        <li>(3) Honey</li>
+        <li>(1) Big Root</li>
+      </ul>
+    </td>
+    <td> Very Good (expensive) </td>
+    <td>
+      <a href="#Pikachu" title="Pikachu">Pikachu</a> - 40% Chance
+      <br />
+      <a href="#Magnemite" title="Magnemite">Magnemite</a> - 50% Chance
+      <br />
+      <a href="#Electabuzz" title="Electabuzz">Electabuzz</a> - 10% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(3) Honey</li>
+        <li>(1) Big Root
+          <b>or</b> Icy Rock</li>
+        <li>(1) Big Root
+          <b>or</b> Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Pikachu" title="Pikachu">Pikachu</a> - 80% Chance
+      <br />
+      <a href="#Electabuzz" title="Electabuzz">Electabuzz</a> - 20% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Get Swole Syrup
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Honey</li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td> Machop, Mankey(?)
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(2) Bluk Berry</li>
+        <li>(1) Honey</li>
+        <li>(1) Balm Mushroom
+          <br />
+        </li>
+      </ul>
+      <p>
+        <b>---</b>
+      </p>
+      <ul>
+        <li>(2) Tiny Mushroom</li>
+        <li>(1) Bluk Berry</li>
+        <li>(2) Honey</li>
+      </ul>
+    </td>
+    <td> Good (expensive) </td>
+    <td>
+      <a href="#Machop" title="Machop">Machop</a> - 96.2% Chance
+      <br />
+      <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a> - 1.9% Chance
+      <br />
+      <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a> - 1.9% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Tiny Mushroom</li>
+        <li>(1) Bluk Berry</li>
+        <li>(2) Honey</li>
+        <li>(1) Balm Mushroom</li>
+      </ul>
+    </td>
+    <td> Very Good </td>
+    <td>
+      <a href="#Machop" title="Machop">Machop</a> - 55.6% Chance
+      <br />
+      <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a> - 22.2% Chance
+      <br />
+      <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a> - 22.2% Chance
+      <br /> </td>
+  </tr>
+</table>
+
+# Ambrosia Of Legends
+
+<table>
+  <tr>
+    <th> Ingredients </th>
+    <th> Rarity </th>
+    <th> Pokémon Attracted </th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Mystic Shell</li>
+        <li>(1) Tiny Mushroom </li>
+        <li>(1) Bluk Berry </li>
+        <li>(1) Apricorn </li>
+        <li>(1) Fossil </li>
+      </ul>
+    </td>
+    <td> Good </td>
+    <td>
+      <a href="#Articuno" title="Articuno">Articuno</a> - 33.3% Chance
+      <br />
+      <a href="#Zapdos" title="Zapdos">Zapdos</a> - 33.3% Chance
+      <br />
+      <a href="#Moltres" title="Moltres">Moltres</a> - 33.3% Chance
+      <br /> </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>(1) Mystic Shell</li>
+        <li>(1) Big Root </li>
+        <li>(1) Icy Rock</li>
+        <li>(1) Honey </li>
+        <li>(1) Balm Mushroom</li>
+      </ul>
+      <p>Note: You can use up to three of the same big ingredient to get the same result. So, this would also work: </p>
+      <ul>
+        <li> (1) Mystic Shell</li>
+        <li> (3) Big Root (or any other big ingredient)</li>
+        <li> (1) Icy Rock (or any other big ingredient that hasn't already been used) </li>
+      </ul>
+    </td>
+    <td> Special </td>
+    <td>
+      <a href="#Articuno" title="Articuno">Articuno</a> - 15.9% Chance
+      <br />
+      <a href="#Zapdos" title="Zapdos">Zapdos</a> - 15.9% Chance
+      <br />
+      <a href="#Moltres" title="Moltres">Moltres</a> - 15.9% Chance
+      <br />
+      <a href="#Mewtwo" title="Mewtwo">Mewtwo</a> - 47.6% Chance
+      <br />
+      <a href="#Mew" title="Mew">Mew</a> - 4.8% Chance
+      <br /> </td>
+  </tr>
+</table>
