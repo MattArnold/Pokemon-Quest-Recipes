@@ -2636,23 +2636,33 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
 <table>
   <tr>
-    <th style="background-color: rgb(168, 168, 120)"> <h1>Pokédex</h1> </th>
-    <th style="background-color: rgb(168, 168, 120)"> <h1>Name</h1> </th>
-    <th colspan="1" style="background-color: rgb(168, 168, 120)"> <h1>Types</h1> </th>
-    <th style="background-color: rgb(168, 168, 120)"> <h1>Recipe to Attract</h1> </th>
+    <th>
+      <h1>Pokédex</h1>
+    </th>
+    <th>
+      <h1>Name</h1>
+    </th>
+    <th colspan="1">
+      <h1>Types</h1>
+    </th>
+    <th>
+      <b>Recipe to Attract</b>
+      <br />
+    </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 016 </td>
-    <td style="background-color: #CCC">
-      <a href="#Pidgey" title="Pidgey">Pidgey</a>
+    <td> 016 </td>
+    <td>
+      <a id="Pidgey" title="Pidgey">Pidgey</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
@@ -2663,7 +2673,7 @@ published: true
   <tr>
     <td> 017 </td>
     <td>
-      <a href="#Pidgeotto" title="Pidgeotto">Pidgeotto</a>
+      <a id="Pidgeotto" title="Pidgeotto">Pidgeotto</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2676,7 +2686,7 @@ published: true
   <tr>
     <td> 018 </td>
     <td>
-      <a href="#Pidgeot" title="Pidgeot">Pidgeot</a>
+      <a id="Pidgeot" title="Pidgeot">Pidgeot</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2687,14 +2697,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 019 </td>
-    <td style="background-color: #CCC">
-      <a href="#Rattata" title="Rattata">Rattata</a>
+    <td> 019 </td>
+    <td>
+      <a id="Rattata" title="Rattata">Rattata</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -2704,7 +2714,7 @@ published: true
   <tr>
     <td> 020 </td>
     <td>
-      <a href="#Raticate" title="Raticate">Raticate</a>
+      <a id="Raticate" title="Raticate">Raticate</a>
     </td>
     <td> Normal
       <br />
@@ -2714,15 +2724,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 021 </td>
-    <td style="background-color: #CCC">
+    <td> 021 </td>
+    <td>
       <a href="#Spearow" title="Spearow">Spearow</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
@@ -2733,7 +2743,7 @@ published: true
   <tr>
     <td> 022 </td>
     <td>
-      <a href="#Fearow" title="Fearow">Fearow</a>
+      <a id="Fearow" title="Fearow">Fearow</a>
     </td>
     <td> Normal
       <br />Flying
@@ -2744,13 +2754,13 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 039 </td>
-    <td style="background-color: #CCC">
-      <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a>
+    <td> 039 </td>
+    <td>
+      <a id="Jigglypuff" title="Jigglypuff">Jigglypuff</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />Fairy </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Gray_Porridge_a_la_Cube">Gray Porridge à la Cube</a>
@@ -2761,23 +2771,20 @@ published: true
   <tr>
     <td> 040 </td>
     <td>
-      <a href="#Wigglytuff" title="Wigglytuff">Wigglytuff</a>
+      <a id="Wigglytuff" title="Wigglytuff">Wigglytuff</a>
     </td>
     <td> Normal
       <br />Fairy </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 052 </td>
-    <td style="background-color: #CCC">
+    <td> 052 </td>
+    <td>
       <a href="#Meowth" title="Meowth">Meowth</a>
-      <img alt="052pq.jpg" src="http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png" data-original="http://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-quest/thumb/8/89/052pq.jpg/100px-052pq.jpg"
-        width="100" height="100" class="ve-align-center" 
-      />
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
@@ -2798,15 +2805,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 083 </td>
-    <td style="background-color: #CCC">
+    <td> 083 </td>
+    <td>
       <a href="#Farfetch%27d">Farfetch'd</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
@@ -2817,15 +2824,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 084 </td>
-    <td style="background-color: #CCC">
+    <td> 084 </td>
+    <td>
       <a href="#Doduo" title="Doduo">Doduo</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
@@ -2849,14 +2856,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 108 </td>
-    <td style="background-color: #CCC">
+    <td> 108 </td>
+    <td>
       <a href="#Lickitung" title="Lickitung">Lickitung</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
@@ -2865,17 +2872,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 113 </td>
-    <td style="background-color: #CCC">
+    <td> 113 </td>
+    <td>
       <a href="#Chansey" title="Chansey">Chansey</a>
-      <img alt="113pq.jpg" src="http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png" data-original="http://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-quest/thumb/5/50/113pq.jpg/100px-113pq.jpg"
-        width="100" height="100" class="ve-align-center" 
-      />
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Gray_Porridge_a_la_Cube">Gray Porridge à la Cube</a>
@@ -2884,14 +2888,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 115 </td>
-    <td style="background-color: #CCC">
+    <td> 115 </td>
+    <td>
       <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
@@ -2900,17 +2904,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 128 </td>
-    <td style="background-color: #CCC">
+    <td> 128 </td>
+    <td>
       <a href="#Tauros" title="Tauros">Tauros</a>
-      <img alt="128pq.jpg" src="http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png" data-original="http://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-quest/thumb/3/36/128pq.jpg/100px-128pq.jpg"
-        width="100" height="100" class="ve-align-center" 
-      />
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Gray_Porridge_a_la_Cube">Gray Porridge à la Cube</a>
@@ -2919,14 +2920,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 132 </td>
-    <td style="background-color: #CCC">
+    <td> 132 </td>
+    <td>
       <a href="#Ditto" title="Ditto">Ditto</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda à la Cube</a>
@@ -2935,14 +2936,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 133 </td>
-    <td style="background-color: #CCC">
+    <td> 133 </td>
+    <td>
       <a href="#Eevee" title="Eevee">Eevee</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
@@ -2951,17 +2952,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 137 </td>
-    <td style="background-color: #CCC">
+    <td> 137 </td>
+    <td>
       <a href="#Porygon" title="Porygon">Porygon</a>
-      <img alt="137pq.jpg" src="http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png" data-original="http://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-quest/thumb/a/a4/137pq.jpg/100px-137pq.jpg"
-        width="100" height="100" class="ve-align-center" 
-      />
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew à la Cube</a>
@@ -2970,17 +2968,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 143 </td>
-    <td style="background-color: #CCC">
+    <td> 143 </td>
+    <td>
       <a href="#Snorlax" title="Snorlax">Snorlax</a>
-      <img alt="143pq.jpg" src="http://assets1.ignimgs.com/2015/05/27/contentplaceholderpng-967b4c.png" data-original="http://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-quest/thumb/f/f7/143pq.jpg/100px-143pq.jpg"
-        width="100" height="100" class="ve-align-center" 
-      />
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew à la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry à la Cube</a>
@@ -2995,27 +2990,27 @@ published: true
 </h3>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #c03028"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #c03028"> Name
+    <th> Name
       <br />
     </th>
-    <th colspan="1" style="background-color: #c03028"> Types
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #c03028">
+    <th>
       <b>Recipe to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 056 </td>
-    <td style="background-color: #CCC"> |
+    <td> 056 </td>
+    <td> |
       <a href="#Mankey" title="Mankey">Mankey</a>
     </td>
-    <td style="background-color: #CCC"> Fighting </td>
-    <td style="background-color: #CCC">
+    <td> Fighting </td>
+    <td>
       <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -3046,12 +3041,12 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 066 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 066 </td>
+    <td>
       <a href="#Machop" title="Machop">Machop</a>
     </td>
-    <td style="background-color: #CCC"> Fighting </td>
-    <td style="background-color: #CCC">
+    <td> Fighting </td>
+    <td>
       <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -3079,12 +3074,12 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 106 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 106 </td>
+    <td>
       <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a>
     </td>
-    <td style="background-color: #CCC"> Fighting </td>
-    <td style="background-color: #CCC">
+    <td> Fighting </td>
+    <td>
       <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -3092,12 +3087,12 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 107 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 107 </td>
+    <td>
       <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a>
     </td>
-    <td style="background-color: #CCC"> Fighting </td>
-    <td style="background-color: #CCC">
+    <td> Fighting </td>
+    <td>
       <a href="#Get_Swole_Syrup_a_la_Cube" title="Get Swole Syrup a la Cube">Get Swole Syrup a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -3154,15 +3149,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 016 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 016 </td>
+    <td>
       <a href="#Pidgey" title="Pidgey">Pidgey</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -3196,15 +3191,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 021 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 021 </td>
+    <td>
       <a href="#Spearow" title="Spearow">Spearow</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -3225,15 +3220,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 041 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 041 </td>
+    <td>
       <a href="#Zubat" title="Zubat">Zubat</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -3254,15 +3249,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 083 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 083 </td>
+    <td>
       <a href="#Farfetch%27d">Farfetch'd</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -3272,15 +3267,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 084 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 084 </td>
+    <td>
       <a href="#Doduo" title="Doduo">Doduo</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Normal
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -3305,15 +3300,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 123 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 123 </td>
+    <td>
       <a href="#Scyther" title="Scyther">Scyther</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Bug
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -3336,57 +3331,57 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 142 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 142 </td>
+    <td>
       <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Rock
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 144 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 144 </td>
+    <td>
       <a href="#Articuno" title="Articuno">Articuno</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Ice
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 145 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 145 </td>
+    <td>
       <a href="#Zapdos" title="Zapdos">Zapdos</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Electric
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 146 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 146 </td>
+    <td>
       <a href="#Moltres" title="Moltres">Moltres</a>
     </td>
-    <td style="background-color: #CCC"> Flying
+    <td> Flying
       <br />Fire
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
@@ -3409,28 +3404,28 @@ published: true
   <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/5/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Poison</h3>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #a040a0"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #a040a0"> Name </th>
-    <th colspan="1" style="background-color: #a040a0"> Types
+    <th> Name </th>
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #a040a0">
+    <th>
       <b>Recipe to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 001 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 001 </td>
+    <td>
       <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Grass
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
@@ -3466,15 +3461,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 013 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 013 </td>
+    <td>
       <a href="#Weedle" title="Weedle">Weedle</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Bug
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -3508,14 +3503,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 023 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 023 </td>
+    <td>
       <a href="#Ekans" title="Ekans">Ekans</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -3537,14 +3532,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 029 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 029 </td>
+    <td>
       <a href="#NidoranF" title="NidoranF" class="mw-redirect">Nidoran♀</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
     </td>
@@ -3575,14 +3570,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 032 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 032 </td>
+    <td>
       <a href="#NidoranM" title="NidoranM" class="mw-redirect">Nidoran♂</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -3615,15 +3610,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 041 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 041 </td>
+    <td>
       <a href="#Zubat" title="Zubat">Zubat</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Light-as-Air_Casserole_a_la_Cube" title="Light-as-Air Casserole a la Cube">Light-as-Air Casserole a la Cube</a>
       <br />
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
@@ -3646,15 +3641,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 043 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 043 </td>
+    <td>
       <a href="#Oddish" title="Oddish">Oddish</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Grass
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -3688,15 +3683,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 048 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 048 </td>
+    <td>
       <a href="#Venonat" title="Venonat">Venonat</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Bug
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -3719,15 +3714,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 069 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 069 </td>
+    <td>
       <a href="#Bellsprout" title="Bellsprout">Bellsprout</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Grass
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
       <br />
     </td>
@@ -3759,15 +3754,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 072 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 072 </td>
+    <td>
       <a href="#Tentacool" title="Tentacool">Tentacool</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -3788,14 +3783,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 088 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 088 </td>
+    <td>
       <a href="#Grimer" title="Grimer">Grimer</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -3817,15 +3812,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 092 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 092 </td>
+    <td>
       <a href="#Gastly" title="Gastly">Gastly</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />Ghost
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -3859,14 +3854,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 109 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 109 </td>
+    <td>
       <a href="#Koffing" title="Koffing">Koffing</a>
     </td>
-    <td style="background-color: #CCC"> Poison
+    <td> Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -3891,29 +3886,29 @@ published: true
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #e0c068"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #e0c068"> Name
+    <th> Name
       <br />
     </th>
-    <th colspan="1" style="background-color: #e0c068"> Types
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #e0c068">
+    <th>
       <b>Recpies to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 027 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 027 </td>
+    <td>
       <a href="#Sandshrew" title="Sandshrew">Sandshrew</a>
     </td>
-    <td style="background-color: #CCC"> Ground
+    <td> Ground
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -3959,14 +3954,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 050 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 050 </td>
+    <td>
       <a href="#Diglett" title="Diglett">Diglett</a>
     </td>
-    <td style="background-color: #CCC"> Ground
+    <td> Ground
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -3986,15 +3981,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 074 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 074 </td>
+    <td>
       <a href="#Geodude" title="Geodude">Geodude</a>
     </td>
-    <td style="background-color: #CCC"> Ground
+    <td> Ground
       <br />Rock
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -4028,15 +4023,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 095 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 095 </td>
+    <td>
       <a href="#Onix" title="Onix">Onix</a>
     </td>
-    <td style="background-color: #CCC"> Ground
+    <td> Ground
       <br />Rock
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
@@ -4046,14 +4041,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 104 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 104 </td>
+    <td>
       <a href="#Cubone" title="Cubone">Cubone</a>
     </td>
-    <td style="background-color: #CCC"> Ground
+    <td> Ground
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
       <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
@@ -4073,15 +4068,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 111 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 111 </td>
+    <td>
       <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a>
     </td>
-    <td style="background-color: #CCC"> Ground
+    <td> Ground
       <br />Rock
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -4110,28 +4105,28 @@ published: true
 </h3>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #b8a038"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #b8a038"> Name </th>
-    <th colspan="1" style="background-color: #b8a038"> Types
+    <th> Name </th>
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #b8a038">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 074 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 074 </td>
+    <td>
       <a href="#Geodude" title="Geodude">Geodude</a>
     </td>
-    <td style="background-color: #CCC"> Rock
+    <td> Rock
       <br />Ground
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -4165,15 +4160,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 095 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 095 </td>
+    <td>
       <a href="#Onix" title="Onix">Onix</a>
     </td>
-    <td style="background-color: #CCC"> Rock
+    <td> Rock
       <br />Ground
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Mud_Pie_a_la_Cube" title="Mud Pie a la Cube">Mud Pie a la Cube</a>
@@ -4183,15 +4178,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 111 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 111 </td>
+    <td>
       <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a>
     </td>
-    <td style="background-color: #CCC"> Rock
+    <td> Rock
       <br />Ground
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -4214,15 +4209,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 138 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 138 </td>
+    <td>
       <a href="#Omanyte" title="Omanyte">Omanyte</a>
     </td>
-    <td style="background-color: #CCC"> Rock
+    <td> Rock
       <br />Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -4245,15 +4240,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 140 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 140 </td>
+    <td>
       <a href="#Kabuto" title="Kabuto">Kabuto</a>
     </td>
-    <td style="background-color: #CCC"> Rock
+    <td> Rock
       <br />Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -4276,15 +4271,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 142 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 142 </td>
+    <td>
       <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a>
     </td>
-    <td style="background-color: #CCC"> Rock
+    <td> Rock
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
     </td>
@@ -4295,27 +4290,27 @@ published: true
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #a8b820"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #a8b820"> Name </th>
-    <th colspan="1" style="background-color: #a8b820"> Types
+    <th> Name </th>
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #a8b820">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 010 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 010 </td>
+    <td>
       <a href="#Caterpie" title="Caterpie">Caterpie</a>
     </td>
-    <td style="background-color: #CCC"> Bug
+    <td> Bug
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -4348,15 +4343,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 013 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 013 </td>
+    <td>
       <a href="#Weedle" title="Weedle">Weedle</a>
     </td>
-    <td style="background-color: #CCC"> Bug
+    <td> Bug
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -4390,15 +4385,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 046 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 046 </td>
+    <td>
       <a href="#Paras" title="Paras">Paras</a>
     </td>
-    <td style="background-color: #CCC"> Bug
+    <td> Bug
       <br />Grass
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -4419,15 +4414,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 048 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 048 </td>
+    <td>
       <a href="#Venonat" title="Venonat">Venonat</a>
     </td>
-    <td style="background-color: #CCC"> Bug
+    <td> Bug
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -4450,15 +4445,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 123 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 123 </td>
+    <td>
       <a href="#Scyther" title="Scyther">Scyther</a>
     </td>
-    <td style="background-color: #CCC"> Bug
+    <td> Bug
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
       <br />
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
@@ -4466,14 +4461,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 127 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 127 </td>
+    <td>
       <a href="#Pinsir" title="Pinsir">Pinsir</a>
     </td>
-    <td style="background-color: #CCC"> Bug
+    <td> Bug
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
     </td>
@@ -4483,28 +4478,28 @@ published: true
   <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/9/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Ghost</h3>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #705898"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #705898"> Name </th>
-    <th colspan="1" style="background-color: #705898"> Types
+    <th> Name </th>
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #705898">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 092 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 092 </td>
+    <td>
       <a href="#Gastly" title="Gastly">Gastly</a>
     </td>
-    <td style="background-color: #CCC"> Ghost
+    <td> Ghost
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -4556,14 +4551,14 @@ published: true
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 004 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 004 </td>
+    <td>
       <a href="#Charmander" title="Charmander">Charmander</a>
     </td>
-    <td style="background-color: #CCC"> Fire
+    <td> Fire
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
       <br />
       <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
@@ -4596,14 +4591,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 037 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 037 </td>
+    <td>
       <a href="#Vulpix" title="Vulpix">Vulpix</a>
     </td>
-    <td style="background-color: #CCC"> Fire
+    <td> Fire
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -4623,14 +4618,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 058 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 058 </td>
+    <td>
       <a href="#Growlithe" title="Growlithe">Growlithe</a>
     </td>
-    <td style="background-color: #CCC"> Fire
+    <td> Fire
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -4650,14 +4645,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 077 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 077 </td>
+    <td>
       <a href="#Ponyta" title="Ponyta">Ponyta</a>
     </td>
-    <td style="background-color: #CCC"> Fire
+    <td> Fire
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -4679,14 +4674,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 126 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 126 </td>
+    <td>
       <a href="#Magmar" title="Magmar">Magmar</a>
     </td>
-    <td style="background-color: #CCC"> Fire
+    <td> Fire
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
       <br />
       <a href="#Hot_Pot_a_la_Cube" title="Hot Pot a la Cube">Hot Pot a la Cube</a>
@@ -4706,15 +4701,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 146 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 146 </td>
+    <td>
       <a href="#Moltres" title="Moltres">Moltres</a>
     </td>
-    <td style="background-color: #CCC"> Fire
+    <td> Fire
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
@@ -4737,14 +4732,14 @@ published: true
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 007 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 007 </td>
+    <td>
       <a href="#Squirtle" title="Squirtle">Squirtle</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
     </td>
@@ -4774,14 +4769,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 054 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 054 </td>
+    <td>
       <a href="#Psyduck" title="Psyduck">Psyduck</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -4801,14 +4796,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 060 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 060 </td>
+    <td>
       <a href="#Poliwag" title="Poliwag">Poliwag</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -4841,15 +4836,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 072 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 072 </td>
+    <td>
       <a href="#Tentacool" title="Tentacool">Tentacool</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -4870,15 +4865,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 079 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 079 </td>
+    <td>
       <a href="#Slowpoke" title="Slowpoke">Slowpoke</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -4901,14 +4896,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 086 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 086 </td>
+    <td>
       <a href="#Seel" title="Seel">Seel</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -4929,16 +4924,16 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 090
+    <td> 090
       <br />
     </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td>
       <a href="#Shellder" title="Shellder">Shellder</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -4961,14 +4956,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 098 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 098 </td>
+    <td>
       <a href="#Krabby" title="Krabby">Krabby</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -4988,14 +4983,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 116 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 116 </td>
+    <td>
       <a href="#Horsea" title="Horsea">Horsea</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -5015,14 +5010,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 118 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 118 </td>
+    <td>
       <a href="#Goldeen" title="Goldeen">Goldeen</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -5042,14 +5037,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 120 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 120 </td>
+    <td>
       <a href="#Staryu" title="Staryu">Staryu</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -5070,14 +5065,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 129 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 129 </td>
+    <td>
       <a href="#Magikarp" title="Magikarp">Magikarp</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
     </td>
@@ -5096,15 +5091,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 131 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 131 </td>
+    <td>
       <a href="#Lapras" title="Lapras">Lapras</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />Ice
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -5124,15 +5119,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 138 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 138 </td>
+    <td>
       <a href="#Omanyte" title="Omanyte">Omanyte</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />Rock
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -5155,15 +5150,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 140 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 140 </td>
+    <td>
       <a href="#Kabuto" title="Kabuto">Kabuto</a>
     </td>
-    <td style="background-color: #CCC"> Water
+    <td> Water
       <br />Rock
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Stone_Soup_a_la_Cube" title="Stone Soup a la Cube">Stone Soup a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -5193,30 +5188,30 @@ published: true
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #78c850"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #78c850"> Name
+    <th> Name
       <br />
     </th>
-    <th colspan="1" style="background-color: #78c850"> Types
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #78c850">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 001 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 001 </td>
+    <td>
       <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a>
     </td>
-    <td style="background-color: #CCC"> Grass
+    <td> Grass
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Sludge_Soup_a_la_Cube" title="Sludge Soup a la Cube">Sludge Soup a la Cube</a>
       <br />
       <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
@@ -5252,15 +5247,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 043 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 043 </td>
+    <td>
       <a href="#Oddish" title="Oddish">Oddish</a>
     </td>
-    <td style="background-color: #CCC"> Grass
+    <td> Grass
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -5294,15 +5289,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 046 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 046 </td>
+    <td>
       <a href="#Paras" title="Paras">Paras</a>
     </td>
-    <td style="background-color: #CCC"> Grass
+    <td> Grass
       <br />Bug
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Honey_a_la_Cube" title="Honey a la Cube" class="mw-redirect">Honey a la Cube</a>
       <br />
       <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
@@ -5325,15 +5320,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 069 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 069 </td>
+    <td>
       <a href="#Bellsprout" title="Bellsprout">Bellsprout</a>
     </td>
-    <td style="background-color: #CCC"> Grass
+    <td> Grass
       <br />Poison
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
       <br />
     </td>
@@ -5365,15 +5360,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 102 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 102 </td>
+    <td>
       <a href="#Exeggcute" title="Exeggcute">Exeggcute</a>
     </td>
-    <td style="background-color: #CCC"> Grass
+    <td> Grass
       <br />Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
@@ -5396,14 +5391,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 114 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 114 </td>
+    <td>
       <a href="#Tangela" title="Tangela">Tangela</a>
     </td>
-    <td style="background-color: #CCC"> Grass
+    <td> Grass
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
       <br />
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
@@ -5430,14 +5425,14 @@ published: true
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 025 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 025 </td>
+    <td>
       <a href="#Pikachu" title="Pikachu">Pikachu</a>
     </td>
-    <td style="background-color: #CCC"> Electric
+    <td> Electric
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
       <br />
     </td>
@@ -5455,15 +5450,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 081 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 081 </td>
+    <td>
       <a href="#Magnemite" title="Magnemite">Magnemite</a>
     </td>
-    <td style="background-color: #CCC"> Electric
+    <td> Electric
       <br />Steel
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -5484,14 +5479,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 100 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 100 </td>
+    <td>
       <a href="#Voltorb" title="Voltorb">Voltorb</a>
     </td>
-    <td style="background-color: #CCC"> Electric
+    <td> Electric
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -5509,14 +5504,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 125 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 125 </td>
+    <td>
       <a href="#Electabuzz" title="Electabuzz">Electabuzz</a>
     </td>
-    <td style="background-color: #CCC"> Electric
+    <td> Electric
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
       <br />
     </td>
@@ -5534,15 +5529,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 145 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 145 </td>
+    <td>
       <a href="#Zapdos" title="Zapdos">Zapdos</a>
     </td>
-    <td style="background-color: #CCC"> Electric
+    <td> Electric
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
@@ -5566,14 +5561,14 @@ published: true
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 063 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 063 </td>
+    <td>
       <a href="#Abra" title="Abra">Abra</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
@@ -5605,15 +5600,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 079 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 079 </td>
+    <td>
       <a href="#Slowpoke" title="Slowpoke">Slowpoke</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -5634,14 +5629,14 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 096 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 096 </td>
+    <td>
       <a href="#Drowzee" title="Drowzee">Drowzee</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Yellow_Curry_a_la_Cube" title="Yellow Curry a la Cube">Yellow Curry a la Cube</a>
       <br />
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
@@ -5661,15 +5656,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 102 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 102 </td>
+    <td>
       <a href="#Exeggcute" title="Exeggcute">Exeggcute</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />Grass
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Veggie_Smoothie_a_la_Cube" title="Veggie Smoothie a la Cube">Veggie Smoothie a la Cube</a>
@@ -5705,27 +5700,27 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 122 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 122 </td>
+    <td>
       <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />Fairy </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 124 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 124 </td>
+    <td>
       <a href="#Jynx" title="Jynx">Jynx</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />Ice
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -5733,27 +5728,27 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 150 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 150 </td>
+    <td>
       <a href="#Mewtwo" title="Mewtwo">Mewtwo</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 151 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 151 </td>
+    <td>
       <a href="#Mew" title="Mew">Mew</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
@@ -5763,14 +5758,14 @@ published: true
   <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/15/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Ice</h3>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #98d8d8"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #98d8d8"> Name </th>
-    <th colspan="1" style="background-color: #98d8d8"> Types
+    <th> Name </th>
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #98d8d8">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
@@ -5802,15 +5797,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 124 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 124 </td>
+    <td>
       <a href="#Jynx" title="Jynx">Jynx</a>
     </td>
-    <td style="background-color: #CCC"> Ice
+    <td> Ice
       <br />Psychic
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
       <a href="#Red_Stew_a_la_Cube" title="Red Stew a la Cube">Red Stew a la Cube</a>
@@ -5818,15 +5813,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 131 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 131 </td>
+    <td>
       <a href="#Lapras" title="Lapras">Lapras</a>
     </td>
-    <td style="background-color: #CCC"> Ice
+    <td> Ice
       <br />Water
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
       <a href="#Mouth_Watering_Dip_a_la_Cube" title="Mouth Watering Dip a la Cube">Mouth Watering Dip a la Cube</a>
@@ -5834,15 +5829,15 @@ published: true
     </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 144 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 144 </td>
+    <td>
       <a href="#Articuno" title="Articuno">Articuno</a>
     </td>
-    <td style="background-color: #CCC"> Ice
+    <td> Ice
       <br />Flying
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Ambrosia_of_Legends_a_la_Cube" title="Ambrosia of Legends a la Cube">Ambrosia of Legends a la Cube</a>
       <br />
     </td>
@@ -5866,14 +5861,14 @@ published: true
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 147 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 147 </td>
+    <td>
       <a href="#Dratini" title="Dratini">Dratini</a>
     </td>
-    <td style="background-color: #CCC"> Dragon
+    <td> Dragon
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Blue_Soda_a_la_Cube" title="Blue Soda a la Cube">Blue Soda a la Cube</a>
       <br />
     </td>
@@ -5908,30 +5903,30 @@ published: true
   <a class="gh-miniButton gh-miniButtonRed" style="float: right;" href="#edit/17/List_of_Pokemon_-_Pokemon_Quest_Pokedex" rel="nofollow">Edit</a>Steel</h3>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #b8b8d0"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #b8b8d0"> Name
+    <th> Name
       <br />
     </th>
-    <th colspan="1" style="background-color: #b8b8d0"> Types
+    <th colspan="1"> Types
       <br />
     </th>
-    <th style="background-color: #b8b8d0">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 081 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 081 </td>
+    <td>
       <a href="#Magnemite" title="Magnemite">Magnemite</a>
     </td>
-    <td style="background-color: #CCC"> Steel
+    <td> Steel
       <br />Electric
       <br />
     </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Watt_a_Risotto_a_la_Cube" title="Watt a Risotto a la Cube">Watt a Risotto a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -5959,25 +5954,25 @@ published: true
 <span class="ad-placement"></span>
 <table style="width: 468px">
   <tr>
-    <th style="background-color: #ee99ac"> Pokédex
+    <th> Pokédex
       <br />
     </th>
-    <th style="background-color: #ee99ac"> Name </th>
-    <th style="background-color: #ee99ac"> Types
+    <th> Name </th>
+    <th> Types
       <br />
     </th>
-    <th style="background-color: #ee99ac">
+    <th>
       <b>Recipes to Attract</b>
       <br />
     </th>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 035 </td>
-    <td style="background-color: #CCC">
+    <td> 035 </td>
+    <td>
       <a href="#Clefairy" title="Clefairy">Clefairy</a>
     </td>
-    <td style="background-color: #CCC"> Fairy </td>
-    <td style="background-color: #CCC">
+    <td> Fairy </td>
+    <td>
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
       <br />
       <a href="#Mulligan_Stew_a_la_Cube" title="Mulligan Stew a la Cube">Mulligan Stew a la Cube</a>
@@ -5992,13 +5987,13 @@ published: true
     <td> Fairy </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 039 </td>
-    <td style="background-color: #CCC">
+    <td> 039 </td>
+    <td>
       <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a>
     </td>
-    <td style="background-color: #CCC"> Normal
+    <td> Normal
       <br />Fairy </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Plain_Crepe_a_la_Cube" title="Plain Crepe a la Cube">Plain Crepe a la Cube</a>
       <br />
       <a href="#Grey_Porridge_a_la_Cube" title="Grey Porridge a la Cube">Grey Porridge a la Cube</a>
@@ -6014,13 +6009,13 @@ published: true
       <br />Fairy </td>
   </tr>
   <tr>
-    <td style="background-color: #CCC"> 122 </td>
-    <td style="background-color: rgb(204, 204, 204)">
+    <td> 122 </td>
+    <td>
       <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a>
     </td>
-    <td style="background-color: #CCC"> Psychic
+    <td> Psychic
       <br />Fairy </td>
-    <td style="background-color: #CCC">
+    <td>
       <a href="#Brain_Food_a_la_Cube" title="Brain Food a la Cube">Brain Food a la Cube</a>
       <br />
     </td>
