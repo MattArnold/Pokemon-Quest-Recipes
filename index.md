@@ -2636,7 +2636,6 @@ published: true
       <br /> </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <th style="background-color: rgb(168, 168, 120)"> Pokédex
@@ -2675,9 +2674,6 @@ published: true
     <td> 017 </td>
     <td>
       <a href="#Pidgeotto" title="Pidgeotto">Pidgeotto</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />Flying
@@ -2691,9 +2687,6 @@ published: true
     <td> 018 </td>
     <td>
       <a href="#Pidgeot" title="Pidgeot">Pidgeot</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />Flying
@@ -2707,9 +2700,6 @@ published: true
     <td style="background-color: #CCC"> 019 </td>
     <td style="background-color: #CCC">
       <a href="#Rattata" title="Rattata">Rattata</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />
@@ -2725,9 +2715,6 @@ published: true
     <td> 020 </td>
     <td>
       <a href="#Raticate" title="Raticate">Raticate</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />
@@ -2761,9 +2748,6 @@ published: true
     <td> 022 </td>
     <td>
       <a href="#Fearow" title="Fearow">Fearow</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />Flying
@@ -2777,9 +2761,6 @@ published: true
     <td style="background-color: #CCC"> 039 </td>
     <td style="background-color: #CCC">
       <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />Fairy </td>
@@ -2795,9 +2776,6 @@ published: true
     <td> 040 </td>
     <td>
       <a href="#Wigglytuff" title="Wigglytuff">Wigglytuff</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />Fairy </td>
@@ -2825,9 +2803,6 @@ published: true
     <td> 053 </td>
     <td>
       <a href="#Persian" title="Persian">Persian</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />
@@ -2840,9 +2815,6 @@ published: true
     <td style="background-color: #CCC"> 083 </td>
     <td style="background-color: #CCC">
       <a href="#Farfetch%27d">Farfetch'd</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />Flying
@@ -2862,9 +2834,6 @@ published: true
     <td style="background-color: #CCC"> 084 </td>
     <td style="background-color: #CCC">
       <a href="#Doduo" title="Doduo">Doduo</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />Flying
@@ -2884,9 +2853,6 @@ published: true
     <td> 085 </td>
     <td>
       <a href="#Dodrio" title="Dodrio">Dodrio</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />Flying
@@ -2900,9 +2866,6 @@ published: true
     <td style="background-color: #CCC"> 108 </td>
     <td style="background-color: #CCC">
       <a href="#Lickitung" title="Lickitung">Lickitung</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />
@@ -2938,9 +2901,6 @@ published: true
     <td style="background-color: #CCC"> 115 </td>
     <td style="background-color: #CCC">
       <a href="#Kangaskhan" title="Kangaskhan">Kangaskhan</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />
@@ -2976,9 +2936,6 @@ published: true
     <td style="background-color: #CCC"> 132 </td>
     <td style="background-color: #CCC">
       <a href="#Ditto" title="Ditto">Ditto</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />
@@ -2995,9 +2952,6 @@ published: true
     <td style="background-color: #CCC"> 133 </td>
     <td style="background-color: #CCC">
       <a href="#Eevee" title="Eevee">Eevee</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />
@@ -3073,9 +3027,6 @@ published: true
     <td style="background-color: #CCC"> 056 </td>
     <td style="background-color: #CCC"> |
       <a href="#Mankey" title="Mankey">Mankey</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fighting </td>
     <td style="background-color: #CCC">
@@ -3089,9 +3040,6 @@ published: true
     <td> 057 </td>
     <td>
       <a href="#Primeape" title="Primeape">Primeape</a>
-
-        />
-      </p>
     </td>
     <td> Fighting </td>
     <td>
@@ -3102,9 +3050,6 @@ published: true
     <td> 062 </td>
     <td>
       <a href="#Poliwrath" title="Poliwrath">Poliwrath</a>
-
-        />
-      </p>
     </td>
     <td> Fighting
       <br />Water
@@ -3118,9 +3063,6 @@ published: true
     <td style="background-color: #CCC"> 066 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Machop" title="Machop">Machop</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fighting </td>
     <td style="background-color: #CCC">
@@ -3134,9 +3076,6 @@ published: true
     <td> 067 </td>
     <td>
       <a href="#Machoke" title="Machoke">Machoke</a>
-
-        />
-      </p>
     </td>
     <td> Fighting </td>
     <td>
@@ -3147,9 +3086,6 @@ published: true
     <td> 068 </td>
     <td>
       <a href="#Machamp" title="Machamp">Machamp</a>
-
-        />
-      </p>
     </td>
     <td> Fighting </td>
     <td>
@@ -3160,9 +3096,6 @@ published: true
     <td style="background-color: #CCC"> 106 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Hitmonlee" title="Hitmonlee">Hitmonlee</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fighting </td>
     <td style="background-color: #CCC">
@@ -3176,9 +3109,6 @@ published: true
     <td style="background-color: #CCC"> 107 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Hitmonchan" title="Hitmonchan">Hitmonchan</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fighting </td>
     <td style="background-color: #CCC">
@@ -3215,9 +3145,6 @@ published: true
     <td> 006 </td>
     <td>
       <a href="#Charizard" title="Charizard">Charizard</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Fire
@@ -3231,9 +3158,6 @@ published: true
     <td> 012 </td>
     <td>
       <a href="#Butterfree" title="Butterfree">Butterfree</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Bug
@@ -3247,9 +3171,6 @@ published: true
     <td style="background-color: #CCC"> 016 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Pidgey" title="Pidgey">Pidgey</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Normal
@@ -3266,9 +3187,6 @@ published: true
     <td> 017 </td>
     <td>
       <a href="#Pidgeotto" title="Pidgeotto">Pidgeotto</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Norma
@@ -3282,9 +3200,6 @@ published: true
     <td> 018 </td>
     <td>
       <a href="#Pidgeot" title="Pidgeot">Pidgeot</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Normal
@@ -3298,9 +3213,6 @@ published: true
     <td style="background-color: #CCC"> 021 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Spearow" title="Spearow">Spearow</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Normal
@@ -3317,9 +3229,6 @@ published: true
     <td> 022 </td>
     <td>
       <a href="#Fearow" title="Fearow">Fearow</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Normal
@@ -3333,9 +3242,6 @@ published: true
     <td style="background-color: #CCC"> 041 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Zubat" title="Zubat">Zubat</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Poison
@@ -3352,9 +3258,6 @@ published: true
     <td> 042 </td>
     <td>
       <a href="#Golbat" title="Golbat">Golbat</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Poison
@@ -3368,9 +3271,6 @@ published: true
     <td style="background-color: #CCC"> 083 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Farfetch%27d">Farfetch'd</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Normal
@@ -3389,9 +3289,6 @@ published: true
     <td style="background-color: #CCC"> 084 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Doduo" title="Doduo">Doduo</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Normal
@@ -3412,9 +3309,6 @@ published: true
     <td> 085 </td>
     <td>
       <a href="#Dodrio" title="Dodrio">Dodrio</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Normal
@@ -3428,9 +3322,6 @@ published: true
     <td style="background-color: #CCC"> 123 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Scyther" title="Scyther">Scyther</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Bug
@@ -3449,9 +3340,6 @@ published: true
     <td> 130 </td>
     <td>
       <a href="#Gyarados" title="Gyarados">Gyarados</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Water
@@ -3465,9 +3353,6 @@ published: true
     <td style="background-color: #CCC"> 142 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Rock
@@ -3482,9 +3367,6 @@ published: true
     <td style="background-color: #CCC"> 144 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Articuno" title="Articuno">Articuno</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Ice
@@ -3499,9 +3381,6 @@ published: true
     <td style="background-color: #CCC"> 145 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Zapdos" title="Zapdos">Zapdos</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Electric
@@ -3516,9 +3395,6 @@ published: true
     <td style="background-color: #CCC"> 146 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Moltres" title="Moltres">Moltres</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Flying
       <br />Fire
@@ -3533,9 +3409,6 @@ published: true
     <td> 149 </td>
     <td>
       <a href="#Dragonite" title="Dragonite">Dragonite</a>
-
-        />
-      </p>
     </td>
     <td> Flying
       <br />Dragon
@@ -3566,9 +3439,6 @@ published: true
     <td style="background-color: #CCC"> 001 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Grass
@@ -3587,9 +3457,6 @@ published: true
     <td> 002 </td>
     <td>
       <a href="#Ivysaur" title="Ivysaur">Ivysaur</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Grass
@@ -3603,9 +3470,6 @@ published: true
     <td> 003 </td>
     <td>
       <a href="#Venusaur" title="Venusaur">Venusaur</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Grass
@@ -3619,9 +3483,6 @@ published: true
     <td style="background-color: #CCC"> 013 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Weedle" title="Weedle">Weedle</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Bug
@@ -3638,9 +3499,6 @@ published: true
     <td> 014 </td>
     <td>
       <a href="#Kakuna" title="Kakuna">Kakuna</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Bug
@@ -3654,9 +3512,6 @@ published: true
     <td> 015 </td>
     <td>
       <a href="#Beedrill" title="Beedrill">Beedrill</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Bug
@@ -3670,9 +3525,6 @@ published: true
     <td style="background-color: #CCC"> 023 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Ekans" title="Ekans">Ekans</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />
@@ -3690,9 +3542,6 @@ published: true
     <td> 024 </td>
     <td>
       <a href="#Arbok" title="Arbok">Arbok</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />
@@ -3705,9 +3554,6 @@ published: true
     <td style="background-color: #CCC"> 029 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#NidoranF" title="NidoranF" class="mw-redirect">Nidoran♀</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />
@@ -3721,9 +3567,6 @@ published: true
     <td> 030 </td>
     <td>
       <a href="#Nidorina" title="Nidorina">Nidorina</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />
@@ -3736,9 +3579,6 @@ published: true
     <td> 031 </td>
     <td>
       <a href="#Nidoqueen" title="Nidoqueen">Nidoqueen</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Ground
@@ -3752,9 +3592,6 @@ published: true
     <td style="background-color: #CCC"> 032 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#NidoranM" title="NidoranM" class="mw-redirect">Nidoran♂</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />
@@ -3770,9 +3607,6 @@ published: true
     <td> 033 </td>
     <td>
       <a href="#Nidorino" title="Nidorino">Nidorino</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />
@@ -3785,9 +3619,6 @@ published: true
     <td> 034 </td>
     <td>
       <a href="#Nidoking" title="Nidoking">Nidoking</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Ground
@@ -3801,9 +3632,6 @@ published: true
     <td style="background-color: #CCC"> 041 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Zubat" title="Zubat">Zubat</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Flying
@@ -3822,9 +3650,6 @@ published: true
     <td> 042 </td>
     <td>
       <a href="#Golbat" title="Golbat">Golbat</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Flying
@@ -3838,9 +3663,6 @@ published: true
     <td style="background-color: #CCC"> 043 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Oddish" title="Oddish">Oddish</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Grass
@@ -3857,9 +3679,6 @@ published: true
     <td> 044 </td>
     <td>
       <a href="#Gloom" title="Gloom">Gloom</a>
-
-        />
-      </p>
     </td>
     <td> Poiuson
       <br />Grass
@@ -3873,9 +3692,6 @@ published: true
     <td> 045 </td>
     <td>
       <a href="#Vileplume" title="Vileplume">Vileplume</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Grass
@@ -3889,9 +3705,6 @@ published: true
     <td style="background-color: #CCC"> 048 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Venonat" title="Venonat">Venonat</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Bug
@@ -3910,9 +3723,6 @@ published: true
     <td> 049 </td>
     <td>
       <a href="#Venomoth" title="Venomoth">Venomoth</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Bug
@@ -3926,9 +3736,6 @@ published: true
     <td style="background-color: #CCC"> 069 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Bellsprout" title="Bellsprout">Bellsprout</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Grass
@@ -3943,9 +3750,6 @@ published: true
     <td> 070 </td>
     <td>
       <a href="#Weepinbell" title="Weepinbell">Weepinbell</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Grass
@@ -3959,9 +3763,6 @@ published: true
     <td> 071 </td>
     <td>
       <a href="#Victreebel" title="Victreebel">Victreebel</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Grass
@@ -3975,9 +3776,6 @@ published: true
     <td style="background-color: #CCC"> 072 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Tentacool" title="Tentacool">Tentacool</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Water
@@ -3994,9 +3792,6 @@ published: true
     <td> 073 </td>
     <td>
       <a href="#Tentacruel" title="Tentacruel">Tentacruel</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Water
@@ -4010,9 +3805,6 @@ published: true
     <td style="background-color: #CCC"> 088 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Grimer" title="Grimer">Grimer</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />
@@ -4030,9 +3822,6 @@ published: true
     <td> 089 </td>
     <td>
       <a href="#Muk" title="Muk">Muk</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />
@@ -4045,9 +3834,6 @@ published: true
     <td style="background-color: #CCC"> 092 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Gastly" title="Gastly">Gastly</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />Ghost
@@ -4064,9 +3850,6 @@ published: true
     <td> 093 </td>
     <td>
       <a href="#Haunter" title="Haunter">Haunter</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Ghost
@@ -4080,9 +3863,6 @@ published: true
     <td> 094 </td>
     <td>
       <a href="#Gengar" title="Gengar">Gengar</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />Ghost
@@ -4096,9 +3876,6 @@ published: true
     <td style="background-color: #CCC"> 109 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Koffing" title="Koffing">Koffing</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Poison
       <br />
@@ -4114,9 +3891,6 @@ published: true
     <td> 110 </td>
     <td>
       <a href="#Weezing" title="Weezing">Weezing</a>
-
-        />
-      </p>
     </td>
     <td> Poison
       <br />
@@ -4149,9 +3923,6 @@ published: true
     <td style="background-color: #CCC"> 027 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Sandshrew" title="Sandshrew">Sandshrew</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ground
       <br />
@@ -4167,9 +3938,6 @@ published: true
     <td> 028 </td>
     <td>
       <a href="#Sandslash" title="Sandslash">Sandslash</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />
@@ -4182,9 +3950,6 @@ published: true
     <td> 031 </td>
     <td>
       <a href="#Nidoqueen" title="Nidoqueen">Nidoqueen</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />Poison
@@ -4198,9 +3963,6 @@ published: true
     <td> 034 </td>
     <td>
       <a href="#Nidoking" title="Nidoking">Nidoking</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />Poison
@@ -4214,9 +3976,6 @@ published: true
     <td style="background-color: #CCC"> 050 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Diglett" title="Diglett">Diglett</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ground
       <br />
@@ -4232,9 +3991,6 @@ published: true
     <td> 051 </td>
     <td>
       <a href="#Dugtrio" title="Dugtrio">Dugtrio</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />
@@ -4247,9 +4003,6 @@ published: true
     <td style="background-color: #CCC"> 074 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Geodude" title="Geodude">Geodude</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ground
       <br />Rock
@@ -4266,9 +4019,6 @@ published: true
     <td> 075 </td>
     <td>
       <a href="#Graveler" title="Graveler">Graveler</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />Rock
@@ -4282,9 +4032,6 @@ published: true
     <td> 076 </td>
     <td>
       <a href="#Golem" title="Golem">Golem</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />Rock
@@ -4298,9 +4045,6 @@ published: true
     <td style="background-color: #CCC"> 095 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Onix" title="Onix">Onix</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ground
       <br />Rock
@@ -4319,9 +4063,6 @@ published: true
     <td style="background-color: #CCC"> 104 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Cubone" title="Cubone">Cubone</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ground
       <br />
@@ -4337,9 +4078,6 @@ published: true
     <td> 105 </td>
     <td>
       <a href="#Marowak" title="Marowak">Marowak</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />
@@ -4352,9 +4090,6 @@ published: true
     <td style="background-color: #CCC"> 111 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ground
       <br />Rock
@@ -4373,9 +4108,6 @@ published: true
     <td> 112 </td>
     <td>
       <a href="#Rhydon" title="Rhydon">Rhydon</a>
-
-        />
-      </p>
     </td>
     <td> Ground
       <br />Rock
@@ -4408,9 +4140,6 @@ published: true
     <td style="background-color: #CCC"> 074 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Geodude" title="Geodude">Geodude</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Rock
       <br />Ground
@@ -4427,9 +4156,6 @@ published: true
     <td> 075 </td>
     <td>
       <a href="#Graveler" title="Graveler">Graveler</a>
-
-        />
-      </p>
     </td>
     <td> Rock
       <br />Ground
@@ -4443,9 +4169,6 @@ published: true
     <td> 076 </td>
     <td>
       <a href="#Golem" title="Golem">Golem</a>
-
-        />
-      </p>
     </td>
     <td> Rock
       <br />Ground
@@ -4459,9 +4182,6 @@ published: true
     <td style="background-color: #CCC"> 095 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Onix" title="Onix">Onix</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Rock
       <br />Ground
@@ -4480,9 +4200,6 @@ published: true
     <td style="background-color: #CCC"> 111 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Rhyhorn" title="Rhyhorn">Rhyhorn</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Rock
       <br />Ground
@@ -4501,9 +4218,6 @@ published: true
     <td> 112 </td>
     <td>
       <a href="#Rhydon" title="Rhydon">Rhydon</a>
-
-        />
-      </p>
     </td>
     <td> Rock
       <br />Ground
@@ -4517,9 +4231,6 @@ published: true
     <td style="background-color: #CCC"> 138 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Omanyte" title="Omanyte">Omanyte</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Rock
       <br />Water
@@ -4538,9 +4249,6 @@ published: true
     <td> 139 </td>
     <td>
       <a href="#Omastar" title="Omastar">Omastar</a>
-
-        />
-      </p>
     </td>
     <td> Rock
       <br />Water
@@ -4554,9 +4262,6 @@ published: true
     <td style="background-color: #CCC"> 140 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Kabuto" title="Kabuto">Kabuto</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Rock
       <br />Water
@@ -4575,9 +4280,6 @@ published: true
     <td> 141 </td>
     <td>
       <a href="#Kabutops" title="Kabutops">Kabutops</a>
-
-        />
-      </p>
     </td>
     <td> Rock
       <br />Water
@@ -4591,9 +4293,6 @@ published: true
     <td style="background-color: #CCC"> 142 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Aerodactyl" title="Aerodactyl">Aerodactyl</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Rock
       <br />Flying
@@ -4626,9 +4325,6 @@ published: true
     <td style="background-color: #CCC"> 010 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Caterpie" title="Caterpie">Caterpie</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Bug
       <br />
@@ -4644,9 +4340,6 @@ published: true
     <td> 011 </td>
     <td>
       <a href="#Metapod" title="Metapod">Metapod</a>
-
-        />
-      </p>
     </td>
     <td> Bug
       <br />
@@ -4659,9 +4352,6 @@ published: true
     <td> 012 </td>
     <td>
       <a href="#Butterfree" title="Butterfree">Butterfree</a>
-
-        />
-      </p>
     </td>
     <td> Bug
       <br />Flying
@@ -4675,9 +4365,6 @@ published: true
     <td style="background-color: #CCC"> 013 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Weedle" title="Weedle">Weedle</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Bug
       <br />Poison
@@ -4694,9 +4381,6 @@ published: true
     <td> 014 </td>
     <td>
       <a href="#Kakuna" title="Kakuna">Kakuna</a>
-
-        />
-      </p>
     </td>
     <td> Bug
       <br />Poison
@@ -4710,9 +4394,6 @@ published: true
     <td> 015 </td>
     <td>
       <a href="#Beedrill" title="Beedrill">Beedrill</a>
-
-        />
-      </p>
     </td>
     <td> Bug
       <br />Poison
@@ -4726,9 +4407,6 @@ published: true
     <td style="background-color: #CCC"> 046 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Paras" title="Paras">Paras</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Bug
       <br />Grass
@@ -4745,9 +4423,6 @@ published: true
     <td> 047 </td>
     <td>
       <a href="#Parasect" title="Parasect">Parasect</a>
-
-        />
-      </p>
     </td>
     <td> Bug
       <br />Grass
@@ -4761,9 +4436,6 @@ published: true
     <td style="background-color: #CCC"> 048 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Venonat" title="Venonat">Venonat</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Bug
       <br />Poison
@@ -4782,9 +4454,6 @@ published: true
     <td> 049 </td>
     <td>
       <a href="#Venomoth" title="Venomoth">Venomoth</a>
-
-        />
-      </p>
     </td>
     <td> Bug
       <br />Poison
@@ -4798,9 +4467,6 @@ published: true
     <td style="background-color: #CCC"> 123 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Scyther" title="Scyther">Scyther</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Bug
       <br />Flying
@@ -4817,9 +4483,6 @@ published: true
     <td style="background-color: #CCC"> 127 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Pinsir" title="Pinsir">Pinsir</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Bug
       <br />
@@ -4850,9 +4513,6 @@ published: true
     <td style="background-color: #CCC"> 092 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Gastly" title="Gastly">Gastly</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ghost
       <br />Poison
@@ -4869,9 +4529,6 @@ published: true
     <td> 093 </td>
     <td>
       <a href="#Haunter" title="Haunter">Haunter</a>
-
-        />
-      </p>
     </td>
     <td> Ghost
       <br />Poison
@@ -4885,9 +4542,6 @@ published: true
     <td> 094 </td>
     <td>
       <a href="#Gengar" title="Gengar">Gengar</a>
-
-        />
-      </p>
     </td>
     <td> Ghost
       <br />Poison
@@ -4919,9 +4573,6 @@ published: true
     <td style="background-color: #CCC"> 004 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Charmander" title="Charmander">Charmander</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fire
       <br />
@@ -4937,9 +4588,6 @@ published: true
     <td> 005 </td>
     <td>
       <a href="#Charmeleon" title="Charmeleon">Charmeleon</a>
-
-        />
-      </p>
     </td>
     <td> Fire
       <br />
@@ -4952,9 +4600,6 @@ published: true
     <td> 006 </td>
     <td>
       <a href="#Charizard" title="Charizard">Charizard</a>
-
-        />
-      </p>
     </td>
     <td> Fire
       <br />Flying
@@ -4968,9 +4613,6 @@ published: true
     <td style="background-color: #CCC"> 037 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Vulpix" title="Vulpix">Vulpix</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fire
       <br />
@@ -4986,9 +4628,6 @@ published: true
     <td> 038 </td>
     <td>
       <a href="#Ninetales" title="Ninetales">Ninetales</a>
-
-        />
-      </p>
     </td>
     <td> Fire
       <br />
@@ -5001,9 +4640,6 @@ published: true
     <td style="background-color: #CCC"> 058 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Growlithe" title="Growlithe">Growlithe</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fire
       <br />
@@ -5019,9 +4655,6 @@ published: true
     <td> 059 </td>
     <td>
       <a href="#Arcanine" title="Arcanine">Arcanine</a>
-
-        />
-      </p>
     </td>
     <td> Fire
       <br />
@@ -5034,9 +4667,6 @@ published: true
     <td style="background-color: #CCC"> 077 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Ponyta" title="Ponyta">Ponyta</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fire
       <br />
@@ -5054,9 +4684,6 @@ published: true
     <td> 078 </td>
     <td>
       <a href="#Rapidash" title="Rapidash">Rapidash</a>
-
-        />
-      </p>
     </td>
     <td> Fire
       <br />
@@ -5069,9 +4696,6 @@ published: true
     <td style="background-color: #CCC"> 126 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Magmar" title="Magmar">Magmar</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fire
       <br />
@@ -5087,9 +4711,6 @@ published: true
     <td> 136 </td>
     <td>
       <a href="#Flareon" title="Flareon">Flareon</a>
-
-        />
-      </p>
     </td>
     <td> Fire
       <br />
@@ -5102,9 +4723,6 @@ published: true
     <td style="background-color: #CCC"> 146 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Moltres" title="Moltres">Moltres</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fire
       <br />Flying
@@ -5136,9 +4754,6 @@ published: true
     <td style="background-color: #CCC"> 007 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Squirtle" title="Squirtle">Squirtle</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5152,9 +4767,6 @@ published: true
     <td> 008 </td>
     <td>
       <a href="#Wartortle" title="Wartortle">Wartortle</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5167,9 +4779,6 @@ published: true
     <td> 009 </td>
     <td>
       <a href="#Blastoise" title="Blastoise">Blastoise</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5182,9 +4791,6 @@ published: true
     <td style="background-color: #CCC"> 054 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Psyduck" title="Psyduck">Psyduck</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5200,9 +4806,6 @@ published: true
     <td> 055 </td>
     <td>
       <a href="#Golduck" title="Golduck">Golduck</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5215,9 +4818,6 @@ published: true
     <td style="background-color: #CCC"> 060 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Poliwag" title="Poliwag">Poliwag</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5233,9 +4833,6 @@ published: true
     <td> 061 </td>
     <td>
       <a href="#Poliwhirl" title="Poliwhirl">Poliwhirl</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5248,9 +4845,6 @@ published: true
     <td> 062 </td>
     <td>
       <a href="#Poliwrath" title="Poliwrath">Poliwrath</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Fighting
@@ -5264,9 +4858,6 @@ published: true
     <td style="background-color: #CCC"> 072 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Tentacool" title="Tentacool">Tentacool</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />Poison
@@ -5283,9 +4874,6 @@ published: true
     <td> 073 </td>
     <td>
       <a href="#Tentacruel" title="Tentacruel">Tentacruel</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Poison
@@ -5299,9 +4887,6 @@ published: true
     <td style="background-color: #CCC"> 079 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Slowpoke" title="Slowpoke">Slowpoke</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />Psychic
@@ -5320,9 +4905,6 @@ published: true
     <td> 080 </td>
     <td>
       <a href="#Slowbro" title="Slowbro">Slowbro</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Psychic
@@ -5336,9 +4918,6 @@ published: true
     <td style="background-color: #CCC"> 086 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Seel" title="Seel">Seel</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5354,9 +4933,6 @@ published: true
     <td> 087 </td>
     <td>
       <a href="#Dewgong" title="Dewgong">Dewgong</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Ice
@@ -5372,9 +4948,6 @@ published: true
     </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Shellder" title="Shellder">Shellder</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5392,9 +4965,6 @@ published: true
     <td> 091 </td>
     <td>
       <a href="#Cloyster" title="Cloyster">Cloyster</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Ice
@@ -5408,9 +4978,6 @@ published: true
     <td style="background-color: #CCC"> 098 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Krabby" title="Krabby">Krabby</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5426,9 +4993,6 @@ published: true
     <td> 099 </td>
     <td>
       <a href="#Kingler" title="Kingler">Kingler</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5441,9 +5005,6 @@ published: true
     <td style="background-color: #CCC"> 116 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Horsea" title="Horsea">Horsea</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5459,9 +5020,6 @@ published: true
     <td> 117 </td>
     <td>
       <a href="#Seadra" title="Seadra">Seadra</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5474,9 +5032,6 @@ published: true
     <td style="background-color: #CCC"> 118 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Goldeen" title="Goldeen">Goldeen</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5492,9 +5047,6 @@ published: true
     <td> 119 </td>
     <td>
       <a href="#Seaking" title="Seaking">Seaking</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5507,9 +5059,6 @@ published: true
     <td style="background-color: #CCC"> 120 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Staryu" title="Staryu">Staryu</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5525,9 +5074,6 @@ published: true
     <td> 121 </td>
     <td>
       <a href="#Starmie" title="Starmie">Starmie</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Psychic
@@ -5541,9 +5087,6 @@ published: true
     <td style="background-color: #CCC"> 129 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Magikarp" title="Magikarp">Magikarp</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />
@@ -5557,9 +5100,6 @@ published: true
     <td> 130 </td>
     <td>
       <a href="#Gyarados" title="Gyarados">Gyarados</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Flying
@@ -5573,9 +5113,6 @@ published: true
     <td style="background-color: #CCC"> 131 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Lapras" title="Lapras">Lapras</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />Ice
@@ -5592,9 +5129,6 @@ published: true
     <td> 134 </td>
     <td>
       <a href="#Vaporeon" title="Vaporeon">Vaporeon</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />
@@ -5607,9 +5141,6 @@ published: true
     <td style="background-color: #CCC"> 138 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Omanyte" title="Omanyte">Omanyte</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />Rock
@@ -5628,9 +5159,6 @@ published: true
     <td> 139 </td>
     <td>
       <a href="#Omastar" title="Omastar">Omastar</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Rock
@@ -5644,9 +5172,6 @@ published: true
     <td style="background-color: #CCC"> 140 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Kabuto" title="Kabuto">Kabuto</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Water
       <br />Rock
@@ -5665,9 +5190,6 @@ published: true
     <td> 141 </td>
     <td>
       <a href="#Kabutops" title="Kabutops">Kabutops</a>
-
-        />
-      </p>
     </td>
     <td> Water
       <br />Rock
@@ -5703,9 +5225,6 @@ published: true
     <td style="background-color: #CCC"> 001 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Bulbasaur" title="Bulbasaur">Bulbasaur</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Grass
       <br />Poison
@@ -5724,9 +5243,6 @@ published: true
     <td> 002 </td>
     <td>
       <a href="#Ivysaur" title="Ivysaur">Ivysaur</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Poison
@@ -5740,9 +5256,6 @@ published: true
     <td> 003 </td>
     <td>
       <a href="#Venusaur" title="Venusaur">Venusaur</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Poison
@@ -5756,9 +5269,6 @@ published: true
     <td style="background-color: #CCC"> 043 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Oddish" title="Oddish">Oddish</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Grass
       <br />Poison
@@ -5775,9 +5285,6 @@ published: true
     <td> 044 </td>
     <td>
       <a href="#Gloom" title="Gloom">Gloom</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Poison
@@ -5791,9 +5298,6 @@ published: true
     <td> 045 </td>
     <td>
       <a href="#Vileplume" title="Vileplume">Vileplume</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Poison
@@ -5807,9 +5311,6 @@ published: true
     <td style="background-color: #CCC"> 046 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Paras" title="Paras">Paras</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Grass
       <br />Bug
@@ -5828,9 +5329,6 @@ published: true
     <td> 047 </td>
     <td>
       <a href="#Parasect" title="Parasect">Parasect</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Bug
@@ -5844,9 +5342,6 @@ published: true
     <td style="background-color: #CCC"> 069 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Bellsprout" title="Bellsprout">Bellsprout</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Grass
       <br />Poison
@@ -5861,9 +5356,6 @@ published: true
     <td> 070 </td>
     <td>
       <a href="#Weepinbell" title="Weepinbell">Weepinbell</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Poison
@@ -5877,9 +5369,6 @@ published: true
     <td> 071 </td>
     <td>
       <a href="#Victreebel" title="Victreebel">Victreebel</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Poison
@@ -5893,9 +5382,6 @@ published: true
     <td style="background-color: #CCC"> 102 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Exeggcute" title="Exeggcute">Exeggcute</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Grass
       <br />Psychic
@@ -5914,9 +5400,6 @@ published: true
     <td> 103 </td>
     <td>
       <a href="#Exeggutor" title="Exeggutor">Exeggutor</a>
-
-        />
-      </p>
     </td>
     <td> Grass
       <br />Psychic
@@ -5930,9 +5413,6 @@ published: true
     <td style="background-color: #CCC"> 114 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Tangela" title="Tangela">Tangela</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Grass
       <br />
@@ -5967,9 +5447,6 @@ published: true
     <td style="background-color: #CCC"> 025 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Pikachu" title="Pikachu">Pikachu</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Electric
       <br />
@@ -5983,9 +5460,6 @@ published: true
     <td> 026 </td>
     <td>
       <a href="#Raichu" title="Raichu">Raichu</a>
-
-        />
-      </p>
     </td>
     <td> Electric
       <br />
@@ -5998,9 +5472,6 @@ published: true
     <td style="background-color: #CCC"> 081 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Magnemite" title="Magnemite">Magnemite</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Electric
       <br />Steel
@@ -6017,9 +5488,6 @@ published: true
     <td> 082 </td>
     <td>
       <a href="#Magneton" title="Magneton">Magneton</a>
-
-        />
-      </p>
     </td>
     <td> Electric
       <br />Steel
@@ -6033,9 +5501,6 @@ published: true
     <td style="background-color: #CCC"> 100 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Voltorb" title="Voltorb">Voltorb</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Electric
       <br />
@@ -6051,9 +5516,6 @@ published: true
     <td> 101 </td>
     <td>
       <a href="#Electrode" title="Electrode">Electrode</a>
-
-        />
-      </p>
     </td>
     <td> Electric </td>
     <td>
@@ -6064,9 +5526,6 @@ published: true
     <td style="background-color: #CCC"> 125 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Electabuzz" title="Electabuzz">Electabuzz</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Electric
       <br />
@@ -6080,9 +5539,6 @@ published: true
     <td> 135 </td>
     <td>
       <a href="#Jolteon" title="Jolteon">Jolteon</a>
-
-        />
-      </p>
     </td>
     <td> Electric
       <br />
@@ -6095,9 +5551,6 @@ published: true
     <td style="background-color: #CCC"> 145 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Zapdos" title="Zapdos">Zapdos</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Electric
       <br />Flying
@@ -6130,9 +5583,6 @@ published: true
     <td style="background-color: #CCC"> 063 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Abra" title="Abra">Abra</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />
@@ -6148,9 +5598,6 @@ published: true
     <td> 064 </td>
     <td>
       <a href="#Kadabra" title="Kadabra">Kadabra</a>
-
-        />
-      </p>
     </td>
     <td> Psychic
       <br />
@@ -6163,9 +5610,6 @@ published: true
     <td> 065 </td>
     <td>
       <a href="#Alakazam" title="Alakazam">Alakazam</a>
-
-        />
-      </p>
     </td>
     <td> Psychic
       <br />
@@ -6178,9 +5622,6 @@ published: true
     <td style="background-color: #CCC"> 079 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Slowpoke" title="Slowpoke">Slowpoke</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />Water
@@ -6197,9 +5638,6 @@ published: true
     <td> 080 </td>
     <td>
       <a href="#Slowbro" title="Slowbro">Slowbro</a>
-
-        />
-      </p>
     </td>
     <td> Psychic
       <br />Water
@@ -6213,9 +5651,6 @@ published: true
     <td style="background-color: #CCC"> 096 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Drowzee" title="Drowzee">Drowzee</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />
@@ -6231,9 +5666,6 @@ published: true
     <td> 097 </td>
     <td>
       <a href="#Hypno" title="Hypno">Hypno</a>
-
-        />
-      </p>
     </td>
     <td> Psychic
       <br />
@@ -6246,9 +5678,6 @@ published: true
     <td style="background-color: #CCC"> 102 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Exeggcute" title="Exeggcute">Exeggcute</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />Grass
@@ -6267,9 +5696,6 @@ published: true
     <td> 103 </td>
     <td>
       <a href="#Exeggutor" title="Exeggutor">Exeggutor</a>
-
-        />
-      </p>
     </td>
     <td> Psychic
       <br />Grass
@@ -6283,9 +5709,6 @@ published: true
     <td> 121 </td>
     <td>
       <a href="#Starmie" title="Starmie">Starmie</a>
-
-        />
-      </p>
     </td>
     <td> Psychic
       <br />Water
@@ -6299,9 +5722,6 @@ published: true
     <td style="background-color: #CCC"> 122 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />Fairy </td>
@@ -6314,9 +5734,6 @@ published: true
     <td style="background-color: #CCC"> 124 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Jynx" title="Jynx">Jynx</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />Ice
@@ -6333,9 +5750,6 @@ published: true
     <td style="background-color: #CCC"> 150 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Mewtwo" title="Mewtwo">Mewtwo</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />
@@ -6349,9 +5763,6 @@ published: true
     <td style="background-color: #CCC"> 151 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Mew" title="Mew">Mew</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />
@@ -6382,9 +5793,6 @@ published: true
     <td> 087 </td>
     <td>
       <a href="#Dewgong" title="Dewgong">Dewgong</a>
-
-        />
-      </p>
     </td>
     <td> Ice
       <br />Water
@@ -6398,9 +5806,6 @@ published: true
     <td> 091 </td>
     <td>
       <a href="#Cloyster" title="Cloyster">Cloyster</a>
-
-        />
-      </p>
     </td>
     <td> Ice
       <br />Water
@@ -6414,9 +5819,6 @@ published: true
     <td style="background-color: #CCC"> 124 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Jynx" title="Jynx">Jynx</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ice
       <br />Psychic
@@ -6433,9 +5835,6 @@ published: true
     <td style="background-color: #CCC"> 131 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Lapras" title="Lapras">Lapras</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ice
       <br />Water
@@ -6452,9 +5851,6 @@ published: true
     <td style="background-color: #CCC"> 144 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Articuno" title="Articuno">Articuno</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Ice
       <br />Flying
@@ -6487,9 +5883,6 @@ published: true
     <td style="background-color: #CCC"> 147 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Dratini" title="Dratini">Dratini</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Dragon
       <br />
@@ -6503,9 +5896,6 @@ published: true
     <td> 148 </td>
     <td>
       <a href="#Dragonair" title="Dragonair">Dragonair</a>
-
-        />
-      </p>
     </td>
     <td> Dragon
       <br />
@@ -6518,9 +5908,6 @@ published: true
     <td> 149 </td>
     <td>
       <a href="#Dragonite" title="Dragonite">Dragonite</a>
-
-        />
-      </p>
     </td>
     <td> Dragon
       <br />Flying
@@ -6553,9 +5940,6 @@ published: true
     <td style="background-color: #CCC"> 081 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Magnemite" title="Magnemite">Magnemite</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Steel
       <br />Electric
@@ -6572,9 +5956,6 @@ published: true
     <td> 082 </td>
     <td>
       <a href="#Magneton" title="Magneton">Magneton</a>
-
-        />
-      </p>
     </td>
     <td> Steel
       <br />Electric
@@ -6608,9 +5989,6 @@ published: true
     <td style="background-color: #CCC"> 035 </td>
     <td style="background-color: #CCC">
       <a href="#Clefairy" title="Clefairy">Clefairy</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Fairy </td>
     <td style="background-color: #CCC">
@@ -6624,9 +6002,6 @@ published: true
     <td> 036 </td>
     <td>
       <a href="#Clefable" title="Clefable">Clefable</a>
-
-        />
-      </p>
     </td>
     <td> Fairy </td>
   </tr>
@@ -6634,9 +6009,6 @@ published: true
     <td style="background-color: #CCC"> 039 </td>
     <td style="background-color: #CCC">
       <a href="#Jigglypuff" title="Jigglypuff">Jigglypuff</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />Fairy </td>
@@ -6651,9 +6023,6 @@ published: true
     <td> 040 </td>
     <td>
       <a href="#Wigglytuff" title="Wigglytuff">Wigglytuff</a>
-
-        />
-      </p>
     </td>
     <td> Normal
       <br />Fairy </td>
@@ -6662,9 +6031,6 @@ published: true
     <td style="background-color: #CCC"> 122 </td>
     <td style="background-color: rgb(204, 204, 204)">
       <a href="#Mr._Mime" title="Mr. Mime">Mr. Mime</a>
-
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Psychic
       <br />Fairy </td>
