@@ -6,7 +6,10 @@ order: 1
 published: true
 ---
 
+<a id="Mulligan_Stew_a_la_Cube"></a>
+
 # Mulligan Stew
+
 <table>
   <tr>
     <th> Ingredients </th>
@@ -358,7 +361,10 @@ published: true
   </tr>
 </table>
 
+<a id="Red_Stew_a_la_Cube"></a>
+
 # Red Stew
+
 <table>
   <tr>
     <th> Ingredients </th>
@@ -512,7 +518,10 @@ published: true
   </tr>
 </table>
 
+<a id="Blue_Soda_a_la_Cube"></a>
+
 # Blue Soda
+
 <table>
   <tr>
     <th> Ingredients </th>
@@ -652,7 +661,10 @@ published: true
   </tr>
 </table>
 
+<a id="Yellow_Curry_a_la_Cube"></a>
+
 # Yellow Curry
+
 <table>
   <tr>
     <th> Ingredients </th>
@@ -803,6 +815,8 @@ published: true
   </tr>
 </table>
 
+<a id="Grey_Porridge_a_la_Cube"></a>
+
 # Grey Porridge
 
 <table>
@@ -952,6 +966,8 @@ published: true
   </tr>
 </table>
 
+<a id="Mouth_Watering_Dip_a_la_Cube"></a>
+
 # Mouth-Watering Dip
 
 <table>
@@ -1070,6 +1086,8 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+<a id="Plain_Crepe_a_la_Cube"></a>
 
 # Plain Crepe
 
@@ -1230,6 +1248,8 @@ published: true
   </tr>
 </table>
 
+<a id="Sludge_Soup_a_la_Cube"></a>
+
 # Sludge Soup
 
 <table>
@@ -1346,6 +1366,8 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+<a id="Mud_Pie_a_la_Cube"></a>
 
 # Mud Pie
 
@@ -1680,6 +1702,8 @@ published: true
   </tr>
 </table>
 
+<a id="Veggie_Smoothie_a_la_Cube"></a>
+
 # Veggie Smoothie
 
 <table>
@@ -1774,6 +1798,8 @@ published: true
   </tr>
 </table>
 
+<a id="Honey_Nectar_a_la_Cube"></a>
+
 # Honey Nectar
 
 <table>
@@ -1849,6 +1875,8 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+<a id="Brain_Food_a_la_Cube"></a>
 
 # Brain Food
 
@@ -1932,6 +1960,8 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+<a id="Stone_Soup_a_la_Cube"></a>
 
 # Stone Soup
 
@@ -2107,6 +2137,8 @@ published: true
   </tr>
 </table>
 
+<a id="Light_As_Air_Casserole_a_la_Cube"></a>
+
 # Light-As-Air Casserole
 
 <table>
@@ -2180,6 +2212,8 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+<a id="Hot_Pot_a_la_Cube"></a>
 
 # Hot Pot
 
@@ -2403,6 +2437,8 @@ published: true
   </tr>
 </table>
 
+<a id="Watt_a_Risotto_a_la_Cube"></a>
+
 # Watt A Risotto
 
 <table>
@@ -2511,6 +2547,8 @@ published: true
   </tr>
 </table>
 
+<a id="Get_Swole_Syrup_a_la_Cube"></a>
+
 # Get Swole Syrup
 
 <table>
@@ -2578,6 +2616,8 @@ published: true
       <br /> </td>
   </tr>
 </table>
+
+<a id="Ambrosia_of_Legends_a_la_Cube"></a>
 
 # Ambrosia Of Legends
 
