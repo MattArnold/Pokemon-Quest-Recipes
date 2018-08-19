@@ -1,5 +1,5 @@
 ---
-title: Pokemon Quest Recipes
+title: Pokémon Quest Recipes
 layout: default
 category: pages
 order: 1
