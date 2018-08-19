@@ -1,0 +1,14 @@
+.inner {
+    width: 900px;
+}
+td {
+    padding: 0.5rem;
+    border: 1px solid white;
+}
+td:nth-child(3) {
+    columns: 3;
+    column-fill: balance;
+}
+li {
+    list-style: none !important;
+}
