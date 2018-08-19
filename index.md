@@ -2638,25 +2638,15 @@ published: true
 </table>
 <table>
   <tr>
-    <th style="background-color: rgb(168, 168, 120)"> Pokédex
-      <br />
-    </th>
-    <th style="background-color: rgb(168, 168, 120)"> Name </th>
-    <th colspan="1" style="background-color: rgb(168, 168, 120)"> Types
-      <br />
-    </th>
-    <th style="background-color: rgb(168, 168, 120)">
-      <b>Recipe to Attract</b>
-      <br />
-    </th>
+    <th style="background-color: rgb(168, 168, 120)"> <h1>Pokédex</h1> </th>
+    <th style="background-color: rgb(168, 168, 120)"> <h1>Name</h1> </th>
+    <th colspan="1" style="background-color: rgb(168, 168, 120)"> <h1>Types</h1> </th>
+    <th style="background-color: rgb(168, 168, 120)"> <h1>Recipe to Attract</h1> </th>
   </tr>
   <tr>
     <td style="background-color: #CCC"> 016 </td>
     <td style="background-color: #CCC">
       <a href="#Pidgey" title="Pidgey">Pidgey</a>
- 
-        />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />Flying
@@ -2727,10 +2717,6 @@ published: true
     <td style="background-color: #CCC"> 021 </td>
     <td style="background-color: #CCC">
       <a href="#Spearow" title="Spearow">Spearow</a>
-
-        />
-        <br />
-      </p>
     </td>
     <td style="background-color: #CCC"> Normal
       <br />Flying
